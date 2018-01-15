@@ -18,5 +18,6 @@ public class ScoreScript : MonoBehaviour {
 
         //DOTween.To(() => transform.position.y, y => transform.position.y = y, transform.position.y + 0.5, 1);
         transform.DOMoveY(transform.position.y + 1, 1).OnComplete(() => Destroy(gameObject));
-	}
+        transform.rotation = Quaternion.LookRotation(-Camera.main.transform.forward);
+    }
 }
