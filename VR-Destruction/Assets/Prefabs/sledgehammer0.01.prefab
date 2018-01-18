@@ -9,23 +9,24 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1986015178104006}
+  m_RootGameObject: {fileID: 1346667442646854}
   m_IsPrefabParent: 1
---- !u!1 &1986015178104006
+--- !u!1 &1346667442646854
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
-  - component: {fileID: 4649483509011740}
-  - component: {fileID: 33842052237025364}
-  - component: {fileID: 23071792080447460}
-  - component: {fileID: 54420513665744492}
-  - component: {fileID: 64656045389817590}
-  - component: {fileID: 114091706098471196}
-  - component: {fileID: 114245642613023488}
-  - component: {fileID: 64859746822457634}
+  - component: {fileID: 4709670109631686}
+  - component: {fileID: 33309207309144122}
+  - component: {fileID: 23519199927285596}
+  - component: {fileID: 54033222533587448}
+  - component: {fileID: 64603042027378826}
+  - component: {fileID: 114028864287602828}
+  - component: {fileID: 114311988811381372}
+  - component: {fileID: 64974557099840548}
+  - component: {fileID: 114540575564168882}
   m_Layer: 0
   m_Name: sledgehammer0.01
   m_TagString: hammer
@@ -33,12 +34,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4649483509011740
+--- !u!4 &4709670109631686
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1986015178104006}
+  m_GameObject: {fileID: 1346667442646854}
   m_LocalRotation: {x: 0.045637064, y: 0.080340214, z: 0.016035628, w: 0.9955931}
   m_LocalPosition: {x: -3.09, y: 0.5, z: 1.36}
   m_LocalScale: {x: 2.4909563, y: 2.4909565, z: 2.4909565}
@@ -46,15 +47,16 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 5.0660005, y: 9.327001, z: 2.259}
---- !u!23 &23071792080447460
+--- !u!23 &23519199927285596
 MeshRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1986015178104006}
+  m_GameObject: {fileID: 1346667442646854}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -70,6 +72,7 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
@@ -78,19 +81,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!33 &33842052237025364
+--- !u!33 &33309207309144122
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1986015178104006}
+  m_GameObject: {fileID: 1346667442646854}
   m_Mesh: {fileID: 4300000, guid: e8d5db139936f7c46bbd218d40a26c1c, type: 3}
---- !u!54 &54420513665744492
+--- !u!54 &54033222533587448
 Rigidbody:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1986015178104006}
+  m_GameObject: {fileID: 1346667442646854}
   serializedVersion: 2
   m_Mass: 10
   m_Drag: 0
@@ -100,40 +103,40 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 2
---- !u!64 &64656045389817590
+--- !u!64 &64603042027378826
 MeshCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1986015178104006}
+  m_GameObject: {fileID: 1346667442646854}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
-  serializedVersion: 2
+  serializedVersion: 3
   m_Convex: 1
-  m_InflateMesh: 1
+  m_CookingOptions: 15
   m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300000, guid: e8d5db139936f7c46bbd218d40a26c1c, type: 3}
---- !u!64 &64859746822457634
+--- !u!64 &64974557099840548
 MeshCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1986015178104006}
+  m_GameObject: {fileID: 1346667442646854}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 2
+  serializedVersion: 3
   m_Convex: 1
-  m_InflateMesh: 0
+  m_CookingOptions: 14
   m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300000, guid: e8d5db139936f7c46bbd218d40a26c1c, type: 3}
---- !u!114 &114091706098471196
+--- !u!114 &114028864287602828
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1986015178104006}
+  m_GameObject: {fileID: 1346667442646854}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a3abaf4521bf2344ea21ed3020b98eb2, type: 3}
@@ -149,7 +152,7 @@ MonoBehaviour:
   validDrop: 1
   grabOverrideButton: 0
   allowedGrabControllers: 0
-  grabAttachMechanicScript: {fileID: 114245642613023488}
+  grabAttachMechanicScript: {fileID: 114311988811381372}
   secondaryGrabActionScript: {fileID: 0}
   isUsable: 0
   holdButtonToUse: 1
@@ -158,12 +161,12 @@ MonoBehaviour:
   useOverrideButton: 0
   allowedUseControllers: 0
   usingState: 0
---- !u!114 &114245642613023488
+--- !u!114 &114311988811381372
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1986015178104006}
+  m_GameObject: {fileID: 1346667442646854}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8afa0b205791c9f4496bf2814aeac078, type: 3}
@@ -177,3 +180,16 @@ MonoBehaviour:
   onGrabCollisionDelay: 0
   destroyImmediatelyOnThrow: 1
   breakForce: 1500000
+--- !u!114 &114540575564168882
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1346667442646854}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9566b533fb0dc542b291bb08868eb6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreTextPrefab: {fileID: 1538763335942284, guid: 33ce12faadc3c36408467525b4493afc,
+    type: 2}

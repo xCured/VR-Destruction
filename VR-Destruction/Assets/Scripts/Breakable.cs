@@ -15,7 +15,6 @@ public class Breakable : MonoBehaviour {
 	void Update () {
 		
 	}
-    
 
     void OnTriggerEnter(Collider col) {
         if (col.gameObject.tag == "hammer")

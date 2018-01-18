@@ -21,8 +21,8 @@ GameObject:
   - component: {fileID: 4910648868146982}
   - component: {fileID: 23486240695451962}
   - component: {fileID: 102274169337910468}
-  - component: {fileID: 114544788919494146}
-  - component: {fileID: 114068351542090640}
+  - component: {fileID: 114355032887607392}
+  - component: {fileID: 114054666108914020}
   m_Layer: 0
   m_Name: Points
   m_TagString: Points
@@ -36,7 +36,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1538763335942284}
-  m_LocalRotation: {x: 0.027841803, y: -0.66823816, z: 0.02504017, w: 0.7430045}
+  m_LocalRotation: {x: -0.042548314, y: -0.15589899, z: -0.006721742, w: 0.98683333}
   m_LocalPosition: {x: 1.256, y: 1.608, z: -7.826}
   m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_Children: []
@@ -98,7 +98,7 @@ TextMesh:
   m_Color:
     serializedVersion: 2
     rgba: 4294967295
---- !u!114 &114068351542090640
+--- !u!114 &114054666108914020
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -106,10 +106,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1538763335942284}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1898ad5b4019b6041a3f13bf56cbe369, type: 3}
+  m_Script: {fileID: 11500000, guid: 6b31e3465daef2a43b359caba837eb16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &114544788919494146
+--- !u!114 &114355032887607392
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -117,6 +117,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 1538763335942284}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 99cbe23c1c470224fb04d2f6bfcbace1, type: 3}
+  m_Script: {fileID: 11500000, guid: 25d4c5d1f7bbe21479dce19bf5951c65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

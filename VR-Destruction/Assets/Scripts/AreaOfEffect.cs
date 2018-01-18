@@ -9,8 +9,6 @@ public class AreaOfEffect : MonoBehaviour {
     //if it reaches a breakable object, it turns the rigidbody off kinematic
     void OnTriggerEnter(Collider col) {
 
-   
-
         if (col.gameObject.tag == "breakable")
         {
             if (col.gameObject.GetComponent<Rigidbody>().isKinematic == true)

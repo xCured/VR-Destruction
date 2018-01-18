@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: a10c23f94fbb0c440985273a624164c4
-timeCreated: 1512646523
+guid: 79a7fe3eee43a2648acf426a10b747e4
+timeCreated: 1516213284
 licenseType: Free
 ModelImporter:
-  serializedVersion: 21
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     100002: Sphere
@@ -39,6 +39,7 @@ ModelImporter:
     400028: Sphere_Part_7
     400030: Sphere_Part_8
     400032: Sphere_Part_9
+    2100000: Material.001
     2300000: Sphere
     2300002: Sphere_Part_1
     2300004: Sphere_Part_10
@@ -89,10 +90,12 @@ ModelImporter:
     4300030: Sphere_Part_15
     7400000: Take 001
     9500000: //RootNode
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -105,6 +108,7 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -129,6 +133,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

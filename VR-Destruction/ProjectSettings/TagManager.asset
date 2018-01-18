@@ -6,10 +6,8 @@ TagManager:
   tags:
   - hammer
   - breakable
-  - FxTemporaire
-  - projectile
-  - TeleportIgnore
   - Points
+  - Axe
   layers:
   - Default
   - TransparentFX
