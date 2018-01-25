@@ -15,7 +15,7 @@ public class BreakableObject : MonoBehaviour {
 
         ContactPoint contact = col.contacts[0];
         
-        if (col.gameObject.tag == "hammer")
+        if (col.gameObject.tag == "hammer" || col.gameObject.tag == "pickaxe" || col.gameObject.tag == "Axe")
         {
             if ((gameObject.GetComponent<Rigidbody>().isKinematic == true))
             {
