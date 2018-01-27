@@ -555,15 +555,6 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
-<<<<<<< HEAD
- <HintPath>C:/Users/taha_/Desktop/VR-Game/VR-Destruction/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
- </Reference>
- <Reference Include="GETween">
- <HintPath>C:/Users/taha_/Desktop/VR-Game/VR-Destruction/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
- </Reference>
- <Reference Include="GUIAnimatorFREE">
- <HintPath>C:/Users/taha_/Desktop/VR-Game/VR-Destruction/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
-=======
  <HintPath>C:/GroupProject/VR-Destruction/VR-Destruction/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="DOTweenEditor">
@@ -580,7 +571,6 @@
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Users/ChrisM13/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/Editor/UnityEditor.Advertisements.dll</HintPath>
->>>>>>> demo
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Users/ChrisM13/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.13/UnityEngine.Analytics.dll</HintPath>
