@@ -24,6 +24,7 @@ public class BreakableObject : MonoBehaviour {
 
 
                 StartCoroutine(DestroyWithDelay());
+                
 
 
                 gameObject.GetComponent<Rigidbody>().isKinematic = false;
@@ -39,4 +40,5 @@ public class BreakableObject : MonoBehaviour {
         yield return new WaitForSeconds(3);
         Destroy(gameObject);
     }
+
 }

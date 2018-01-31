@@ -297,7 +297,6 @@
     <Compile Include="Assets\CorcraProps_Furniture_Lite\Scenes\Scripts\CameraOrbit.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Examples\Basics.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Examples\Sequences.cs" />
-    <Compile Include="Assets\FaceCam.cs" />
     <Compile Include="Assets\Fantasy Skybox FREE\Demo\Scripts\GE_FantasySkyboxFREE_Demo.cs" />
     <Compile Include="Assets\Fantasy Skybox FREE\Demo\Scripts\GE_FantasySkyboxFREE_UIs.cs" />
     <Compile Include="Assets\GE Common Assets\GE Orbit Camera\Scripts\GE_OrbitCamera.cs" />
@@ -345,10 +344,17 @@
     <Compile Include="Assets\Scripts\AreaOfEffect.cs" />
     <Compile Include="Assets\Scripts\Breakable.cs" />
     <Compile Include="Assets\Scripts\BreakableObject.cs" />
+    <Compile Include="Assets\Scripts\clickUI.cs" />
+    <Compile Include="Assets\Scripts\FaceCam.cs" />
     <Compile Include="Assets\Scripts\Hammer.cs" />
     <Compile Include="Assets\Scripts\HammerScript.cs" />
+    <Compile Include="Assets\Scripts\MenuToggle.cs" />
     <Compile Include="Assets\Scripts\MovingObject.cs" />
     <Compile Include="Assets\Scripts\ScoreScript.cs" />
+    <Compile Include="Assets\Scripts\ScriptsChangeLevel\ChangeLevel.cs" />
+    <Compile Include="Assets\Scripts\ScriptsChangeLevel\SelectLevel2.cs" />
+    <Compile Include="Assets\Scripts\Timer.cs" />
+    <Compile Include="Assets\Scripts\timerSounds.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />

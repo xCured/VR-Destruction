@@ -16,10 +16,12 @@ public class Timer : MonoBehaviour
     //public bool timeUp;  will use this to also write game over, or instanciate a prefab that tells you game over
 
     // Use this for initialization
-    void Start()
+  
+
+
+    public void TimerStart()
     {
         StartCoroutine("LoseTime");
-
         clips = GetComponent<AudioSource>();
     }
 
