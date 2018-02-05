@@ -4,35 +4,94 @@ using UnityEngine;
 using UnityEngine.UI;
 
 
-public class BreakableObject : MonoBehaviour {
+public class BreakableObject : MonoBehaviour
+{
 
 
 
     public GameObject areaOfEffect;
+    
+
+    //void OnCollisionStay(Collision col)
+    //{
+
+    //    ContactPoint contact = col.contacts[0];
+
+    //    if (col.gameObject.tag == "hammer" || col.gameObject.tag == "pickaxe" || col.gameObject.tag == "Axe")
+    //    {
+    //        if ((gameObject.GetComponent<Rigidbody>().isKinematic == true))
+    //        {
+    //            HammerScript hammer = col.gameObject.GetComponent<HammerScript>();
+    //            hammer.ShowScore();
 
 
-    void OnCollisionStay(Collision col) {
+    //            StartCoroutine(DestroyWithDelay());
 
-        ContactPoint contact = col.contacts[0];
+    //            Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), unity.GetComponent<Collider>());
+
+    //            gameObject.GetComponent<Rigidbody>().isKinematic = false;
+    //            GameObject aoe = Instantiate(areaOfEffect, contact.point, Quaternion.Euler(gameObject.transform.rotation.eulerAngles.x, gameObject.transform.rotation.eulerAngles.y, gameObject.transform.rotation.eulerAngles.z + 90));
+    //            aoe.GetComponent<AreaOfEffect>().setSize(col.relativeVelocity.magnitude);
+    //            Destroy(aoe);
+    //        }
+    //    }
+    //}
+
+   public float minForce;
+
+    public bool Started = false;
+
+    public void MoveAbleObjects()
+    {
         
-        if (col.gameObject.tag == "hammer" || col.gameObject.tag == "pickaxe" || col.gameObject.tag == "Axe")
+        if(Started != true)
         {
-            if ((gameObject.GetComponent<Rigidbody>().isKinematic == true))
+            gameObject.GetComponent<Rigidbody>().isKinematic = false;
+        }
+        Started = true;
+    }
+
+   
+    private void OnCollisionEnter(Collision col)
+    {
+        if (col.impulse.sqrMagnitude > minForce) {
+            return;
+        }
+        
+            if (col.gameObject.tag != "breakable" && col.gameObject.tag != "plane" && col.gameObject.tag != "Untagged")
             {
-                HammerScript hammer = col.gameObject.GetComponent<HammerScript>();
-                hammer.ShowScore();
+                Debug.Log(col.gameObject.name + ": " + col.gameObject.tag);
+                Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), col.collider);
+            }
+            
+            ContactPoint contact = col.contacts[0];
+
+        
+        if(Started == true) {
+            if (col.gameObject.tag == "hammer" || col.gameObject.tag == "pickaxe" || col.gameObject.tag == "Axe")
+            {
+                if ((gameObject.GetComponent<Rigidbody>().isKinematic == true))
+                {
+                    HammerScript hammer = col.gameObject.GetComponent<HammerScript>();
+                    hammer.ShowScore();
 
 
-                StartCoroutine(DestroyWithDelay());
-                
 
+                    StartCoroutine(DestroyWithDelay());
 
-                gameObject.GetComponent<Rigidbody>().isKinematic = false;
-                GameObject aoe = Instantiate(areaOfEffect, contact.point, Quaternion.Euler(gameObject.transform.rotation.eulerAngles.x, gameObject.transform.rotation.eulerAngles.y, gameObject.transform.rotation.eulerAngles.z + 90));
-                aoe.GetComponent<AreaOfEffect>().setSize(col.relativeVelocity.magnitude);
-                Destroy(aoe);
+                    // Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), unity.GetComponent<Collider>());
+
+                    gameObject.GetComponent<Rigidbody>().isKinematic = false;
+                    GameObject aoe = Instantiate(areaOfEffect, contact.point, Quaternion.Euler(gameObject.transform.rotation.eulerAngles.x, gameObject.transform.rotation.eulerAngles.y, gameObject.transform.rotation.eulerAngles.z + 90));
+                    aoe.GetComponent<AreaOfEffect>().setSize(col.relativeVelocity.magnitude);
+                    Destroy(aoe);
+
+                }
+
             }
         }
+
+
     }
 
     IEnumerator DestroyWithDelay()
