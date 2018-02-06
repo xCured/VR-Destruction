@@ -11,6 +11,11 @@ public class BreakableObject : MonoBehaviour
     PlayerScore playerScore;
     public GameObject areaOfEffect;
     
+    void Start()
+    {
+        GameObject player = GameObject.Find("ScoreKeeper");
+        playerScore = player.GetComponent<PlayerScore>();
+    }
 
 
 
@@ -77,7 +82,7 @@ public class BreakableObject : MonoBehaviour
                     HammerScript hammer = col.gameObject.GetComponent<HammerScript>();
                     hammer.ShowScore();
                     ScoreForEachObject pointsGiven = col.gameObject.GetComponent<ScoreForEachObject>();
-                    playerScore = GetComponent<PlayerScore>();
+                   
                     playerScore.score += pointsGiven.pointsAwarded;
                    
 
