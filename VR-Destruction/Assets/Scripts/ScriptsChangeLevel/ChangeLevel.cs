@@ -6,6 +6,15 @@ using UnityEngine.SceneManagement;
 
 public class ChangeLevel : MonoBehaviour {
 
+    //public int SceneIndex =  SceneManager.GetActiveScene().buildIndex +1;
+
+
+    // int nextBuildIndex = SceneManager.GetActiveScene().buildIndex + 1;
+    //SceneManager.LoadScene(nextBuildIndex);
+    //public void Nextlevel()
+    //{
+    //    SceneManager.LoadScene(SceneIndex);
+    //}
 
     public void ReturnMenu()
     {

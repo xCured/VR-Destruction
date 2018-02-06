@@ -5,8 +5,14 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 
+
+
 public class SelectLevel2 : MonoBehaviour
 {
+    public int SceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
+
+
+
     public GameObject areaOfEffect;
 
     void OnCollisionStay(Collision col)
@@ -17,6 +23,8 @@ public class SelectLevel2 : MonoBehaviour
         {
             if ((gameObject.GetComponent<Rigidbody>().isKinematic == true))
             {
+               
+
 
                 gameObject.GetComponent<Rigidbody>().isKinematic = false;
                 GameObject aoe = Instantiate(areaOfEffect, contact.point, Quaternion.Euler(gameObject.transform.rotation.eulerAngles.x, gameObject.transform.rotation.eulerAngles.y, gameObject.transform.rotation.eulerAngles.z + 90));
@@ -24,9 +32,9 @@ public class SelectLevel2 : MonoBehaviour
                 Destroy(aoe);
 
                 StartCoroutine(wait());
-
                 
-
+                
+   
 
                
             }
@@ -35,9 +43,18 @@ public class SelectLevel2 : MonoBehaviour
 
     IEnumerator wait()
     {
-        yield return new WaitForSeconds(3);
-        SceneManager.LoadScene("main");
+    
+
+        yield return new WaitForSeconds(2);
         
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+
+        
+
+
+
+
+
     }
 
 }
