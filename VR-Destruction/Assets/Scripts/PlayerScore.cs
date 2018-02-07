@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class PlayerScore : MonoBehaviour
 {
-    public int score = 0;
+    public int score;
     public Text scoreText;
 
   
@@ -26,12 +26,4 @@ public class PlayerScore : MonoBehaviour
        
     }
 
-    IEnumerator LoseTime()
-    {
-        while (true)
-        {
-          
-
-        }
-    }
 }

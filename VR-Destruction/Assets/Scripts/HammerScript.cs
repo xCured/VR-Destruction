@@ -6,10 +6,12 @@ public class HammerScript : MonoBehaviour
 {
     public GameObject scoreTextPrefab;
 
-    public void ShowScore()
+    public void ShowScore(int points)
     {
         Instantiate(scoreTextPrefab, transform.position, Quaternion.identity);
         scoreTextPrefab.transform.LookAt(Camera.main.transform);
+        ScoreScript showPoints = scoreTextPrefab.GetComponent<ScoreScript>();
+        showPoints.showScore(points);
     }
 
 }

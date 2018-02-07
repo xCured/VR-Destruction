@@ -10,11 +10,12 @@ public class BreakableObject : MonoBehaviour
 
     PlayerScore playerScore;
     public GameObject areaOfEffect;
+    public GameObject scoreKeeper;
+
     
     void Start()
     {
-        GameObject player = GameObject.Find("ScoreKeeper");
-        playerScore = player.GetComponent<PlayerScore>();
+        
     }
 
 
@@ -74,21 +75,32 @@ public class BreakableObject : MonoBehaviour
             ContactPoint contact = col.contacts[0];
 
         
-        if(Started == true) {
+       // if(Started == true) {
             if (col.gameObject.tag == "hammer" || col.gameObject.tag == "pickaxe" || col.gameObject.tag == "Axe")
             {
-                if ((gameObject.GetComponent<Rigidbody>().isKinematic == true))
+           
+
+            if ((gameObject.GetComponent<Rigidbody>().isKinematic == true))
                 {
-                    HammerScript hammer = col.gameObject.GetComponent<HammerScript>();
-                    hammer.ShowScore();
-                    ScoreForEachObject pointsGiven = col.gameObject.GetComponent<ScoreForEachObject>();
-                   
-                    playerScore.score += pointsGiven.pointsAwarded;
-                   
+                ScoreForEachObject scoreValue = gameObject.GetComponent<ScoreForEachObject>();
+                HammerScript hammer = col.gameObject.GetComponent<HammerScript>();
+                    hammer.ShowScore(scoreValue.pointsAwarded);
+                // Get score keeper score
+                playerScore = scoreKeeper.GetComponent<PlayerScore>();
+
+                //get pointsgiven by object
+                
+                int pointsAdded = scoreValue.pointsAwarded;
+
+                //add points given to score keeper
+                playerScore.score += pointsAdded;
 
 
 
-                    StartCoroutine(DestroyWithDelay());
+
+
+
+                StartCoroutine(DestroyWithDelay());
 
                     // Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), unity.GetComponent<Collider>());
 
@@ -100,7 +112,7 @@ public class BreakableObject : MonoBehaviour
                 }
 
             }
-        }
+       // }
 
 
     }
