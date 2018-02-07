@@ -13,6 +13,7 @@ public class Timer : MonoBehaviour
     public AudioClip gameOverV;
     public AudioClip gameOverJ;
     public AudioSource clips;
+    public static bool started = false;
    
 
 
@@ -26,7 +27,7 @@ public class Timer : MonoBehaviour
   void Start()
     {
         
-        StartCoroutine("LoseTime");
+     //  StartCoroutine("LoseTime");
         
        // Debug.Log(timeLeft);
     }
@@ -34,8 +35,10 @@ public class Timer : MonoBehaviour
 
     public void TimerStart()
     {
+
         StartCoroutine("LoseTime");
         clips = GetComponent<AudioSource>();
+        started = true;
         
     }
 

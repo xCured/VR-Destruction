@@ -8,16 +8,22 @@ public class BreakableObject : MonoBehaviour
 {
 
 
-    
+    PlayerScore playerScore;
+    public GameObject scoreKeeper;
     public GameObject areaOfEffect;
-    
+    Rigidbody rigid;
 
-   public float minForce;
+    public int multiplier = 4;
+
+ //  public float minForce;
     private static int TimeLeft;
    public static bool moveableobj = true;
 
-    
 
+    private void Start()
+    {
+        rigid = gameObject.GetComponent<Rigidbody>();
+    }
     //basically timer is int when that raches 0 the boolean doesnt change to true and idk why
     void Update()
     {
@@ -27,7 +33,7 @@ public class BreakableObject : MonoBehaviour
         if(TimeLeft <= 0)
         {
             moveableobj = false;
-            Scoreteller.whatsyourScore = false;
+            //Scoreteller.whatsyourScore = false;
         }
        
 
@@ -35,46 +41,58 @@ public class BreakableObject : MonoBehaviour
 
     private void OnCollisionEnter(Collision col)
     {
-        if (col.impulse.sqrMagnitude > minForce)
-        {
-            return;
-        }
+
 
         if (col.gameObject.tag != "breakable" && col.gameObject.tag != "plane" && col.gameObject.tag != "Untagged")
         {
-           // Debug.Log(col.gameObject.name + ": " + col.gameObject.tag);
+            // Debug.Log(col.gameObject.name + ": " + col.gameObject.tag);
             Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), col.collider);
         }
 
         ContactPoint contact = col.contacts[0];
-
-
         if (moveableobj == true)
         {
-            if (col.gameObject.tag == "hammer" || col.gameObject.tag == "pickaxe" || col.gameObject.tag == "Axe")
+            if (Timer.started == true)
             {
-                if ((gameObject.GetComponent<Rigidbody>().isKinematic == true))
                 {
-                    HammerScript hammer = col.gameObject.GetComponent<HammerScript>();
-                    hammer.ShowScore();
+                    if (col.gameObject.tag == "hammer" || col.gameObject.tag == "pickaxe" || col.gameObject.tag == "Axe")
+                    {
+                        if ((gameObject.GetComponent<Rigidbody>().isKinematic == true))
+                        {
+                            ScoreForEachObject scoreValue = gameObject.GetComponent<ScoreForEachObject>();
+                            HammerScript hammer = col.gameObject.GetComponent<HammerScript>();
+                            hammer.ShowScore(scoreValue.pointsAwarded);
+
+                            // Get score keeper score
+                            playerScore = scoreKeeper.GetComponent<PlayerScore>();
+
+                            //get pointsgiven by object
+
+                            int pointsAdded = scoreValue.pointsAwarded;
+
+                            //add points given to score keeper
+                            playerScore.score += pointsAdded;
 
 
+                            StartCoroutine(DestroyWithDelay());
 
-                    StartCoroutine(DestroyWithDelay());
+                            // Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), unity.GetComponent<Collider>());
 
-                    // Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), unity.GetComponent<Collider>());
+                            gameObject.GetComponent<Rigidbody>().isKinematic = false;
+                            GameObject aoe = Instantiate(areaOfEffect, contact.point, Quaternion.Euler(gameObject.transform.rotation.eulerAngles.x, gameObject.transform.rotation.eulerAngles.y, gameObject.transform.rotation.eulerAngles.z + 90));
+                            aoe.GetComponent<AreaOfEffect>().setSize(col.relativeVelocity.magnitude);
+                            Destroy(aoe);
+                            // rigid.AddForce(col.impulse * (5) + col.impulse.normalized, ForceMode.Impulse);
+                            rigid.AddForce(col.impulse * 1, ForceMode.Impulse);
 
-                    gameObject.GetComponent<Rigidbody>().isKinematic = false;
-                    GameObject aoe = Instantiate(areaOfEffect, contact.point, Quaternion.Euler(gameObject.transform.rotation.eulerAngles.x, gameObject.transform.rotation.eulerAngles.y, gameObject.transform.rotation.eulerAngles.z + 90));
-                    aoe.GetComponent<AreaOfEffect>().setSize(col.relativeVelocity.magnitude);
-                    Destroy(aoe);
 
+                        }
+
+
+                    }
                 }
 
-
             }
-
-
         }
     }
 

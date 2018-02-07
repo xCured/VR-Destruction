@@ -9,7 +9,12 @@ using UnityEngine.UI;
 
 public class SelectLevel2 : MonoBehaviour
 {
-    public int SceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
+    public int SceneIndex;
+
+    private void Start()
+    {
+        SceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
+    }
 
 
 
@@ -17,7 +22,15 @@ public class SelectLevel2 : MonoBehaviour
 
     void OnCollisionStay(Collision col)
     {
+
+
         ContactPoint contact = col.contacts[0];
+
+        if (col.gameObject.tag != "breakable" && col.gameObject.tag != "plane" && col.gameObject.tag != "Untagged")
+        {
+            // Debug.Log(col.gameObject.name + ": " + col.gameObject.tag);
+            Physics.IgnoreCollision(gameObject.GetComponent<Collider>(), col.collider);
+        }
 
         if (col.gameObject.tag == "hammer" || col.gameObject.tag == "pickaxe" || col.gameObject.tag == "Axe")
         {
