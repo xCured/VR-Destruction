@@ -107,8 +107,9 @@
      <Compile Include="Assets\Scripts\HammerScript.cs" />
      <Compile Include="Assets\Scripts\MenuToggle.cs" />
      <Compile Include="Assets\Scripts\MovingObject.cs" />
+     <Compile Include="Assets\Scripts\PlayerScore.cs" />
+     <Compile Include="Assets\Scripts\ScoreForEachObject.cs" />
      <Compile Include="Assets\Scripts\ScoreScript.cs" />
-     <Compile Include="Assets\Scripts\Scoreteller.cs" />
      <Compile Include="Assets\Scripts\ScriptsChangeLevel\ChangeLevel.cs" />
      <Compile Include="Assets\Scripts\ScriptsChangeLevel\SelectLevel2.cs" />
      <Compile Include="Assets\Scripts\Timer.cs" />

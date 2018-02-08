@@ -4,11 +4,12 @@ using UnityEngine.UI;
 
 public class Timer : MonoBehaviour
 {
-    public static int  timeLeft = 10;
+    public static int  timeLeft = 15;
     public Text countdownText;
     public static int TimeLeft2;
-    
 
+
+    public bool chris = true;
     public AudioClip beep;
     public AudioClip gameOverV;
     public AudioClip gameOverJ;
@@ -27,7 +28,7 @@ public class Timer : MonoBehaviour
   void Start()
     {
         
-     //  StartCoroutine("LoseTime");
+       StartCoroutine("LoseTime");
         
        // Debug.Log(timeLeft);
     }
@@ -54,6 +55,12 @@ public class Timer : MonoBehaviour
             
             StopCoroutine("LoseTime");
             countdownText.text = "Times Up!";
+            if (chris == true)
+            {
+                clips.PlayOneShot(gameOverJ, 0.7F);
+                clips.PlayOneShot(gameOverV, 0.7F);
+                chris = false;
+            }
         }
     }
 
@@ -67,12 +74,14 @@ public class Timer : MonoBehaviour
             yield return new WaitForSeconds(1);
            // timeLeft--;
 
-            if(timeLeft > 0 && timeLeft < 11 ) { clips.PlayOneShot(beep, 0.7F); }
-            if (timeLeft <= 0) {
-                clips.PlayOneShot(gameOverJ, 0.7F);
-                clips.PlayOneShot(gameOverV, 0.7F);
-                
+            if(timeLeft > 0 && timeLeft < 11 ) {
+                clips.PlayOneShot(beep, 0.7F);
             }
+            //if (timeLeft <= 0) {
+            //    clips.PlayOneShot(gameOverJ, 0.7F);
+            //    clips.PlayOneShot(gameOverV, 0.7F);
+                
+            //}
 
         }
     }
