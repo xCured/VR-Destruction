@@ -9,6 +9,8 @@ TagManager:
   - Points
   - Axe
   - pickaxe
+  - cuttable
+  - cuttingTool
   layers:
   - Default
   - TransparentFX

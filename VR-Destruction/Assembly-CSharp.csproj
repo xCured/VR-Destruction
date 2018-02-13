@@ -51,6 +51,26 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\_2D\AdjustableQuad2D.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\_2D\Parallax2D.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\_2D\Spline2D.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\_ApplicationComponents\ApplicationComponent_Manager.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\_ApplicationComponents\SaveData_ApplicationComponent.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\_ScriptHelper\SelectableSphereGizmo.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\Electricity.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\ExampleUseof_MeshColliderPeMaterial.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\ExampleUseof_Trajectory_Predicted_Path.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\Math_Functions.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\Mesh_Maker.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\MeshColliderPerMaterial.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\MeshCut.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\ParticlePathFlow.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\ParticleTexture.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\Path_Comp.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\PortalView.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\SetDepthTextureMode.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\Spline3D.cs" />
+     <Compile Include="Assets\BLINDED_AM_ME package\Scripts\ToolUser.cs" />
      <Compile Include="Assets\CorcraProps_Furniture_Lite\Scenes\Scripts\CameraOrbit.cs" />
      <Compile Include="Assets\Demigiant\DOTween\Examples\Basics.cs" />
      <Compile Include="Assets\Demigiant\DOTween\Examples\Sequences.cs" />
@@ -102,6 +122,7 @@
      <Compile Include="Assets\Scripts\Breakable.cs" />
      <Compile Include="Assets\Scripts\BreakableObject.cs" />
      <Compile Include="Assets\Scripts\clickUI.cs" />
+     <Compile Include="Assets\Scripts\cuttableObject.cs" />
      <Compile Include="Assets\Scripts\FaceCam.cs" />
      <Compile Include="Assets\Scripts\Hammer.cs" />
      <Compile Include="Assets\Scripts\HammerScript.cs" />
@@ -471,15 +492,30 @@
      <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseHeadset.cs" />
      <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseSystem.cs" />
      <None Include="Assets\Demigiant\DOTween\readme.txt" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\def.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_Fade.shader" />
      <None Include="Assets\Fantasy Skybox FREE\Readme.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ClearAll.shader" />
      <None Include="Assets\SteamVR\InteractionSystem\Hints\Shaders\ControllerButtonHints.shader" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\Intersection_Texture_Rim_Bumped.shader" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\Clip_Plane.shader" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\Diffuse_UnlitRimColor.shader" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\burnThrough.shader" />
      <None Include="Assets\VRTK\Scripts\Internal\Shaders\UIOverlay.shader" />
      <None Include="Assets\SteamVR\InteractionSystem\Teleport\Shaders\Highlight.shader" />
      <None Include="Assets\VRTK\Scripts\Internal\Shaders\VRTK_OutlineBasic.shader" />
      <None Include="Assets\Fantasy Skybox FREE\Fog and Ambient reference.txt" />
      <None Include="Assets\VRTK\Scripts\Internal\Shaders\AdaptiveQualityDebugVisualization.shader" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\DiffuseBumped_UnlitRimColorBumped.shader" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\Diffuse_Outline_Edges.shader" />
+     <None Include="Assets\BLINDED_AM_ME package\LICENSE.txt" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\Clip_Box.shader" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\Intersection_Texture_Rim.shader" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\CelShaded_ShadowDetails.shader" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\Portal.shader" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\Clip_Radius.shader" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\Intersection_Color.shader" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\Intersection_Color_Rim_Bumped.shader" />
      <None Include="Assets\GUI Animator\GUI Animator FREE\Readme.txt" />
      <None Include="Assets\GE Common Assets\GE Touch Joystick\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_SphericalProjection.shader" />
@@ -493,8 +529,10 @@
      <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\Silhouette.shader" />
      <None Include="Assets\VRTK\Scripts\Internal\Shaders\Unlit_TransparentColor.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ColorOut.shader" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\Intersection_Texture.shader" />
      <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\SeeThru.shader" />
      <None Include="Assets\GE Common Assets\GE Touch Joystick\Characters\RollerBall\RollerBallGuidelines.txt" />
+     <None Include="Assets\BLINDED_AM_ME package\Shaders\Intersection_Color_Rim.shader" />
      <None Include="Assets\SteamVR\InteractionSystem\Readme_InteractionSystem.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -560,37 +598,37 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
- <HintPath>C:/Users/taha_/Desktop/ahmed/VR-Destruction/VR-Destruction/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+ <HintPath>C:/VRGame/VR-Destruction/VR-Destruction/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="DOTweenEditor">
- <HintPath>C:/Users/taha_/Desktop/ahmed/VR-Destruction/VR-Destruction/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
+ <HintPath>C:/VRGame/VR-Destruction/VR-Destruction/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
  </Reference>
  <Reference Include="GETween">
- <HintPath>C:/Users/taha_/Desktop/ahmed/VR-Destruction/VR-Destruction/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
+ <HintPath>C:/VRGame/VR-Destruction/VR-Destruction/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
  </Reference>
  <Reference Include="GUIAnimatorFREE">
- <HintPath>C:/Users/taha_/Desktop/ahmed/VR-Destruction/VR-Destruction/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
+ <HintPath>C:/VRGame/VR-Destruction/VR-Destruction/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Users/taha_/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
+ <HintPath>C:/Users/ChrisM13/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
- <HintPath>C:/Users/taha_/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/Editor/UnityEditor.Advertisements.dll</HintPath>
+ <HintPath>C:/Users/ChrisM13/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Users/taha_/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.13/UnityEngine.Analytics.dll</HintPath>
+ <HintPath>C:/Users/ChrisM13/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.13/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Analytics">
- <HintPath>C:/Users/taha_/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.13/Editor/UnityEditor.Analytics.dll</HintPath>
+ <HintPath>C:/Users/ChrisM13/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.13/Editor/UnityEditor.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Purchasing">
- <HintPath>C:/Users/taha_/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.19/UnityEngine.Purchasing.dll</HintPath>
+ <HintPath>C:/Users/ChrisM13/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.19/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Purchasing">
- <HintPath>C:/Users/taha_/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.19/Editor/UnityEditor.Purchasing.dll</HintPath>
+ <HintPath>C:/Users/ChrisM13/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.19/Editor/UnityEditor.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
- <HintPath>C:/Users/taha_/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/ChrisM13/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
