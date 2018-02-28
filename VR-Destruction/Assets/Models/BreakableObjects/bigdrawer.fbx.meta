@@ -33,6 +33,9 @@ ModelImporter:
     100050: node_id7
     100052: node_id8
     100054: node_id9
+    100056: node_id30
+    100058: node_id31
+    100060: node_id58
     400000: //RootNode
     400002: node_id10
     400004: node_id11
@@ -61,6 +64,9 @@ ModelImporter:
     400050: node_id7
     400052: node_id8
     400054: node_id9
+    400056: node_id30
+    400058: node_id31
+    400060: node_id58
     2100000: Material_57
     2100002: Material_58
     2100004: Material_59
@@ -87,6 +93,32 @@ ModelImporter:
     2100046: Material_80
     2100048: Material_81
     2100050: Material_82
+    2100052: Material_315
+    2100054: Material_317
+    2100056: Material_319
+    2100058: Material_321
+    2100060: Material_323
+    2100062: Material_325
+    2100064: Material_327
+    2100066: Material_329
+    2100068: Material_331
+    2100070: Material_333
+    2100072: Material_335
+    2100074: Material_337
+    2100076: Material_339
+    2100078: Material_341
+    2100080: Material_343
+    2100082: Material_345
+    2100084: Material_347
+    2100086: Material_349
+    2100088: Material_351
+    2100090: Material_353
+    2100092: Material_355
+    2100094: Material_357
+    2100096: Material_359
+    2100098: Material_361
+    2100100: Material_363
+    2100102: Material_365
     2300000: node_id10
     2300002: node_id11
     2300004: node_id12
@@ -113,6 +145,8 @@ ModelImporter:
     2300046: node_id7
     2300048: node_id8
     2300050: node_id9
+    2300052: node_id30
+    2300054: node_id31
     3300000: node_id10
     3300002: node_id11
     3300004: node_id12
@@ -139,6 +173,8 @@ ModelImporter:
     3300046: node_id7
     3300048: node_id8
     3300050: node_id9
+    3300052: node_id30
+    3300054: node_id31
     4300000: node_id4
     4300002: node_id5
     4300004: node_id6
@@ -165,12 +201,14 @@ ModelImporter:
     4300046: node_id27
     4300048: node_id28
     4300050: node_id29
+    4300052: node_id30
+    4300054: node_id31
   externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0

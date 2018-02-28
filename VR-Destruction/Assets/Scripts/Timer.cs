@@ -14,7 +14,7 @@ public class Timer : MonoBehaviour
     public AudioClip gameOverV;
     public AudioClip gameOverJ;
     public AudioSource clips;
-    public static bool started = false;
+    public static bool started = true;
    
 
 

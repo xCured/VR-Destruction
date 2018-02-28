@@ -38,6 +38,9 @@ ModelImporter:
     100060: node_id7
     100062: node_id8
     100064: node_id9
+    100066: node_id35
+    100068: node_id36
+    100070: node_id68
     400000: //RootNode
     400002: node_id10
     400004: node_id11
@@ -71,6 +74,9 @@ ModelImporter:
     400060: node_id7
     400062: node_id8
     400064: node_id9
+    400066: node_id35
+    400068: node_id36
+    400070: node_id68
     2100000: Material_62
     2100002: Material_63
     2100004: Material_64
@@ -102,6 +108,35 @@ ModelImporter:
     2100056: Material_90
     2100058: Material_91
     2100060: Material_92
+    2100062: Material_230
+    2100064: Material_232
+    2100066: Material_234
+    2100068: Material_236
+    2100070: Material_238
+    2100072: Material_240
+    2100074: Material_242
+    2100076: Material_244
+    2100078: Material_93
+    2100080: Material_94
+    2100082: Material_246
+    2100084: Material_248
+    2100086: Material_97
+    2100088: Material_250
+    2100090: Material_252
+    2100092: Material_100
+    2100094: Material_101
+    2100096: Material_102
+    2100098: Material_254
+    2100100: Material_256
+    2100102: Material_258
+    2100104: Material_106
+    2100106: Material_260
+    2100108: Material_262
+    2100110: Material_264
+    2100112: Material_110
+    2100114: Material_266
+    2100116: Material_112
+    2100118: Material_268
     2300000: node_id10
     2300002: node_id11
     2300004: node_id12
@@ -133,6 +168,8 @@ ModelImporter:
     2300056: node_id7
     2300058: node_id8
     2300060: node_id9
+    2300062: node_id35
+    2300064: node_id36
     3300000: node_id10
     3300002: node_id11
     3300004: node_id12
@@ -164,6 +201,8 @@ ModelImporter:
     3300056: node_id7
     3300058: node_id8
     3300060: node_id9
+    3300062: node_id35
+    3300064: node_id36
     4300000: node_id4
     4300002: node_id5
     4300004: node_id6
@@ -195,12 +234,14 @@ ModelImporter:
     4300056: node_id32
     4300058: node_id33
     4300060: node_id34
+    4300062: node_id35
+    4300064: node_id36
   externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0

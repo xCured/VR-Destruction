@@ -1,23 +1,24 @@
 fileFormatVersion: 2
-guid: b261cb62c861ae643baf169c3f2cc489
-timeCreated: 1516213777
+guid: 82eb01453978edc42bac8468c8033bbe
+timeCreated: 1519059081
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2100000: lambert1
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: pCylinder2
-    9500000: //RootNode
+    100000: node_id3
+    100002: //RootNode
+    400000: node_id3
+    400002: //RootNode
+    2100000: Material_156
+    2300000: node_id3
+    3300000: node_id3
+    4300000: node_id3
   externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -86,7 +87,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

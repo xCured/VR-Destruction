@@ -1,24 +1,43 @@
 fileFormatVersion: 2
-guid: 19b0e420b4844b845b6a26fa9c6ad7b7
-timeCreated: 1516213777
+guid: b3a1e9aa02dbf9b46b87c28fa70b2ed3
+timeCreated: 1519061104
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: node_id5
+    100004: node_id6
+    100006: node_id9
     400000: //RootNode
-    2100000: lambert1
-    2100002: lambert2
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: pCube2
+    400002: node_id5
+    400004: node_id6
+    400006: node_id9
+    2100000: Material_63
+    2100002: Material_65
+    2300000: node_id5
+    2300002: node_id6
+    3300000: node_id5
+    3300002: node_id6
+    4300000: node_id5
+    4300002: node_id6
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_63
+    second: {fileID: 2100000, guid: 7da75d8035595814884331ccb054f411, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_65
+    second: {fileID: 2100000, guid: f1af0c77ef26ece49a370b0b4fefc2d8, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -32,7 +51,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5

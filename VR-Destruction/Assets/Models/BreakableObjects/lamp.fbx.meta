@@ -18,6 +18,9 @@ ModelImporter:
     100020: node_id7
     100022: node_id8
     100024: node_id9
+    100026: node_id15
+    100028: node_id16
+    100030: node_id28
     400000: //RootNode
     400002: node_id10
     400004: node_id11
@@ -31,6 +34,9 @@ ModelImporter:
     400020: node_id7
     400022: node_id8
     400024: node_id9
+    400026: node_id15
+    400028: node_id16
+    400030: node_id28
     2100000: Material_142
     2100002: Material_143
     2100004: Material_144
@@ -42,6 +48,17 @@ ModelImporter:
     2100016: Material_150
     2100018: Material_151
     2100020: Material_152
+    2100022: Material_564
+    2100024: Material_566
+    2100026: Material_568
+    2100028: Material_570
+    2100030: Material_572
+    2100032: Material_574
+    2100034: Material_576
+    2100036: Material_578
+    2100038: Material_580
+    2100040: Material_582
+    2100042: Material_584
     2300000: node_id10
     2300002: node_id11
     2300004: node_id12
@@ -53,6 +70,8 @@ ModelImporter:
     2300016: node_id7
     2300018: node_id8
     2300020: node_id9
+    2300022: node_id15
+    2300024: node_id16
     3300000: node_id10
     3300002: node_id11
     3300004: node_id12
@@ -64,6 +83,8 @@ ModelImporter:
     3300016: node_id7
     3300018: node_id8
     3300020: node_id9
+    3300022: node_id15
+    3300024: node_id16
     4300000: node_id4
     4300002: node_id5
     4300004: node_id6
@@ -75,12 +96,14 @@ ModelImporter:
     4300016: node_id12
     4300018: node_id13
     4300020: node_id14
+    4300022: node_id15
+    4300024: node_id16
   externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0

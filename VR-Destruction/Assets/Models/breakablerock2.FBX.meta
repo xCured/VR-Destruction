@@ -90,7 +90,12 @@ ModelImporter:
     4300030: Sphere_Part_15
     7400000: Take 001
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 8bc6e4addc67c3042b35fc0ef4cbcbb6, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

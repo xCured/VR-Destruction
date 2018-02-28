@@ -28,6 +28,9 @@ ModelImporter:
     100040: node_id8
     100042: node_id9
     100044: //RootNode
+    100046: node_id25
+    100048: node_id26
+    100050: node_id48
     400000: node_id10
     400002: node_id11
     400004: node_id12
@@ -51,6 +54,9 @@ ModelImporter:
     400040: node_id8
     400042: node_id9
     400044: //RootNode
+    400046: node_id25
+    400048: node_id26
+    400050: node_id48
     2100000: Material_52
     2100002: Material_53
     2100004: Material_54
@@ -72,6 +78,27 @@ ModelImporter:
     2100036: Material_70
     2100038: Material_71
     2100040: Material_72
+    2100042: Material_852
+    2100044: Material_854
+    2100046: Material_856
+    2100048: Material_858
+    2100050: Material_860
+    2100052: Material_862
+    2100054: Material_864
+    2100056: Material_866
+    2100058: Material_868
+    2100060: Material_870
+    2100062: Material_872
+    2100064: Material_874
+    2100066: Material_876
+    2100068: Material_878
+    2100070: Material_880
+    2100072: Material_882
+    2100074: Material_884
+    2100076: Material_886
+    2100078: Material_888
+    2100080: Material_890
+    2100082: Material_892
     2300000: node_id10
     2300002: node_id11
     2300004: node_id12
@@ -93,6 +120,8 @@ ModelImporter:
     2300036: node_id7
     2300038: node_id8
     2300040: node_id9
+    2300042: node_id25
+    2300044: node_id26
     3300000: node_id10
     3300002: node_id11
     3300004: node_id12
@@ -114,6 +143,8 @@ ModelImporter:
     3300036: node_id7
     3300038: node_id8
     3300040: node_id9
+    3300042: node_id25
+    3300044: node_id26
     4300000: node_id4
     4300002: node_id5
     4300004: node_id6
@@ -135,12 +166,14 @@ ModelImporter:
     4300036: node_id22
     4300038: node_id23
     4300040: node_id24
+    4300042: node_id25
+    4300044: node_id26
   externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
