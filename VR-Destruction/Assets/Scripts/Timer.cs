@@ -4,17 +4,18 @@ using UnityEngine.UI;
 
 public class Timer : MonoBehaviour
 {
-    public static int  timeLeft = 15;
+    public static int  timeLeft = 60;
     public Text countdownText;
     public static int TimeLeft2;
 
+    
 
     public bool chris = true;
     public AudioClip beep;
     public AudioClip gameOverV;
     public AudioClip gameOverJ;
     public AudioSource clips;
-    public static bool started = true;
+    public static bool started = false;
    
 
 
@@ -28,7 +29,7 @@ public class Timer : MonoBehaviour
   void Start()
     {
         
-       StartCoroutine("LoseTime");
+       //StartCoroutine("LoseTime");
         
        // Debug.Log(timeLeft);
     }

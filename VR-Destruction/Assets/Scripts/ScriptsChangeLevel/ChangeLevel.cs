@@ -25,6 +25,9 @@ public class ChangeLevel : MonoBehaviour {
     public void RestartLevel()
     {
         Application.LoadLevel(Application.loadedLevel);
+        Timer.timeLeft = 60;
+        Timer.started = false;
+
     }
 
     public void SceneLoader(int SceneIndex)
