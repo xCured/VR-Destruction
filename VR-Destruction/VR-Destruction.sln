@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-Destruction", "VR-Destruction.csproj", "{7DA479A0-DFC3-F266-5FC2-C2F8559B6449}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-Destruction.Editor", "VR-Destruction.Editor.csproj", "{0E74A13F-EC44-FBC0-C8D1-31ECE3DC0553}"
