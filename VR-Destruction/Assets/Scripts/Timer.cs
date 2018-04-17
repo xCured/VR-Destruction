@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class Timer : MonoBehaviour
 {
-    public static int  timeLeft = 10;
+    public static int  timeLeft = 60;
     public Text countdownText;
     public static int TimeLeft2;
 
@@ -49,7 +49,7 @@ public class Timer : MonoBehaviour
     {
         // TimeLeft2 = timeLeft;
         LoseTime();
-        countdownText.text = ("Time Left: " + timeLeft + " seconds");
+        countdownText.text = ( timeLeft + " seconds");
 
         if (timeLeft <= 0)
         {

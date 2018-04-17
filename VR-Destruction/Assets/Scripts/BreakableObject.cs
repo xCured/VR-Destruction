@@ -53,7 +53,7 @@ public class BreakableObject : MonoBehaviour
             if (Timer.started == true)
             {
                 {
-                    if (col.gameObject.tag == "hammer" || col.gameObject.tag == "pickaxe" || col.gameObject.tag == "Axe")
+                    if (col.gameObject.tag == "hammer" || col.gameObject.tag == "pickaxe" || col.gameObject.tag == "Axe" || col.gameObject.tag == "Clock")
                     {
                         if ((gameObject.GetComponent<Rigidbody>().isKinematic == true))
                         {

@@ -40,6 +40,11 @@ public class ChangeLevel : MonoBehaviour {
         Destroy(gameObject);
     }
 
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
+
 
 
 }
