@@ -15470,6 +15470,29 @@ Transform:
   m_PrefabParentObject: {fileID: 4582302954026134, guid: 5483701e4911fa04f998a09087249072,
     type: 2}
   m_PrefabInternal: {fileID: 1661120525}
+--- !u!114 &572822294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 572822291}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fc329af81d570f4fa1f0274d301f0a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Menu: {fileID: 572822291}
+--- !u!114 &572822295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 572822291}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9bf494d7b1c6847b36f1deca11b056, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &576245151 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1878099021641092, guid: ea56875bdae4206439b636bcb9cdbf97,
@@ -40335,6 +40358,11 @@ Prefab:
       value: "Destroy as much as you can within the given \ntime to gain points\nYou
         have 60 seconds, time starts when\nyou press the button"
       objectReference: {fileID: 0}
+    - target: {fileID: 224053341743214492, guid: 615ac1ae688cace4c843ef34d18bb2a4,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -7.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 615ac1ae688cace4c843ef34d18bb2a4, type: 2}
   m_IsPrefabParent: 0
@@ -40837,7 +40865,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1285870809876384, guid: 5483701e4911fa04f998a09087249072, type: 2}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114864484322819780, guid: 5483701e4911fa04f998a09087249072,
         type: 2}
@@ -42667,7 +42695,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Menu: {fileID: 572822291}
-  MenuShower: 0
 --- !u!4 &1479124642
 Transform:
   m_ObjectHideFlags: 0
@@ -47664,6 +47691,16 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 114084763678950460, guid: 5483701e4911fa04f998a09087249072,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114128808115383642, guid: 5483701e4911fa04f998a09087249072,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4132369284139920, guid: 5483701e4911fa04f998a09087249072, type: 2}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -47811,6 +47848,56 @@ Prefab:
         type: 2}
       propertyPath: m_RootOrder
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114084763678950460, guid: 5483701e4911fa04f998a09087249072,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114084763678950460, guid: 5483701e4911fa04f998a09087249072,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114128808115383642, guid: 5483701e4911fa04f998a09087249072,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114128808115383642, guid: 5483701e4911fa04f998a09087249072,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114128808115383642, guid: 5483701e4911fa04f998a09087249072,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 572822294}
+    - target: {fileID: 114084763678950460, guid: 5483701e4911fa04f998a09087249072,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 572822294}
+    - target: {fileID: 114084763678950460, guid: 5483701e4911fa04f998a09087249072,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: RestartMenu
+      objectReference: {fileID: 0}
+    - target: {fileID: 114084763678950460, guid: 5483701e4911fa04f998a09087249072,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 114128808115383642, guid: 5483701e4911fa04f998a09087249072,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: RestartMenu
+      objectReference: {fileID: 0}
+    - target: {fileID: 114128808115383642, guid: 5483701e4911fa04f998a09087249072,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 114786513237053978, guid: 5483701e4911fa04f998a09087249072, type: 2}

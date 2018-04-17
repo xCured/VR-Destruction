@@ -6,7 +6,8 @@ public class Timer0 : MonoBehaviour {
 
     
     public GameObject Menu;
-    public int MenuShower;
+    //public bool Ison = false;
+    
     // Use this for initialization
     void Start () {
         
@@ -18,11 +19,25 @@ public class Timer0 : MonoBehaviour {
 
         if(Timer.timeLeft == 0)
         {
+           
+                Menu.SetActive(true);
+             
             
-            Menu.SetActive(true);
-            // gameObject.SetActive(true);
         }
 
-        
     }
+
+   public void RestartMenu()
+    {
+        Menu.SetActive(false);
+    }
+
+    //void OnCollisionStay(Collision col)
+    //{
+    //    if (col.gameObject.tag == "hammer")
+    //    {
+    //        Menu.SetActive(false);
+    //    }
+
+    //}
 }

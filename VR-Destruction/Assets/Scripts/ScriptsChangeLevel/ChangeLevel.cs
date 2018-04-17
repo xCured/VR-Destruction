@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class ChangeLevel : MonoBehaviour {
 
     //public int SceneIndex =  SceneManager.GetActiveScene().buildIndex +1;
-
+    //public static GameObject menu2;
 
     // int nextBuildIndex = SceneManager.GetActiveScene().buildIndex + 1;
     //SceneManager.LoadScene(nextBuildIndex);
@@ -15,10 +15,15 @@ public class ChangeLevel : MonoBehaviour {
     //{
     //    SceneManager.LoadScene(SceneIndex);
     //}
-
+    public GameObject Menu;
     public void ReturnMenu()
     {
+        
         SceneManager.LoadScene("UIlevel");
+        Timer.timeLeft = 60;
+        Timer.started = false;
+        
+
 
     }
 
@@ -27,6 +32,7 @@ public class ChangeLevel : MonoBehaviour {
         Application.LoadLevel(Application.loadedLevel);
         Timer.timeLeft = 60;
         Timer.started = false;
+        
 
     }
 
@@ -44,6 +50,9 @@ public class ChangeLevel : MonoBehaviour {
     {
         Application.Quit();
     }
+
+    
+   
 
 
 

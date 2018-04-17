@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class Timer : MonoBehaviour
 {
-    public static int  timeLeft = 60;
+    public static int  timeLeft = 5;
     public Text countdownText;
     public static int TimeLeft2;
 
