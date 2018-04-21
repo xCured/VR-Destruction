@@ -353,6 +353,7 @@
     <None Include="Assets\VRTK\Scripts\Internal\Shaders\Unlit_TransparentColor.shader" />
     <None Include="Assets\VRTK\Scripts\Internal\Shaders\VRTK_OutlineBasic.shader" />
     <None Include="Assets\Wand and Circles\Polygon City Free Pack - Environment and Interior\Materials\Double Sided Standard Diffuse Bump.shader" />
+    <None Include="Assets\plants\dd\AlphaTest-Bumped.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

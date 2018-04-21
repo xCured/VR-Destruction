@@ -81,7 +81,7 @@ public class BreakableObject : MonoBehaviour
                             aoe.GetComponent<AreaOfEffect>().setSize(col.relativeVelocity.magnitude);
                             Destroy(aoe);
                             // rigid.AddForce(col.impulse * (5) + col.impulse.normalized, ForceMode.Impulse);
-                            rigid.AddForce(col.impulse * 1, ForceMode.Impulse);
+                            rigid.AddForce(col.impulse * 0.02f, ForceMode.Impulse);
 
 
                         }

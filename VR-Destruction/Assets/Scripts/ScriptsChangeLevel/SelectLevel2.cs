@@ -13,7 +13,7 @@ public class SelectLevel2 : MonoBehaviour
 
     private void Start()
     {
-        SceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
+       // SceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
     }
 
 
@@ -60,7 +60,8 @@ public class SelectLevel2 : MonoBehaviour
 
         yield return new WaitForSeconds(2);
         
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+        SceneManager.LoadScene(SceneIndex);
 
         
 

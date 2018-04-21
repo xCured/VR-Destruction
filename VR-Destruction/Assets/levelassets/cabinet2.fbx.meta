@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: 1355acac20714f848a2c9f1236343333
+timeCreated: 1524304326
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: node_id10
+    100004: node_id10 1
+    100006: node_id10 2
+    100008: node_id10 3
+    100010: node_id109
+    100012: node_id11
+    100014: node_id11 1
+    100016: node_id11 2
+    100018: node_id11 3
+    100020: node_id12
+    100022: node_id12 1
+    100024: node_id12 2
+    100026: node_id12 3
+    100028: node_id13
+    100030: node_id13 1
+    100032: node_id13 2
+    100034: node_id13 3
+    100036: node_id14
+    100038: node_id14 1
+    100040: node_id14 2
+    100042: node_id14 3
+    100044: node_id15
+    100046: node_id15 1
+    100048: node_id15 2
+    100050: node_id15 3
+    100052: node_id16
+    100054: node_id16 1
+    100056: node_id16 2
+    100058: node_id16 3
+    100060: node_id17
+    100062: node_id17 1
+    100064: node_id17 2
+    100066: node_id17 3
+    100068: node_id18
+    100070: node_id18 1
+    100072: node_id18 2
+    100074: node_id18 3
+    100076: node_id19
+    100078: node_id19 1
+    100080: node_id19 2
+    100082: node_id19 3
+    100084: node_id20
+    100086: node_id20 1
+    100088: node_id20 2
+    100090: node_id20 3
+    100092: node_id21
+    100094: node_id21 1
+    100096: node_id21 2
+    100098: node_id21 3
+    100100: node_id22
+    100102: node_id22 1
+    100104: node_id22 2
+    100106: node_id22 3
+    100108: node_id23
+    100110: node_id23 1
+    100112: node_id23 2
+    100114: node_id23 3
+    100116: node_id24
+    100118: node_id24 1
+    100120: node_id24 2
+    100122: node_id24 3
+    100124: node_id4
+    100126: node_id4 1
+    100128: node_id4 2
+    100130: node_id4 3
+    100132: node_id5
+    100134: node_id5 1
+    100136: node_id5 2
+    100138: node_id5 3
+    100140: node_id6
+    100142: node_id6 1
+    100144: node_id6 2
+    100146: node_id6 3
+    100148: node_id7
+    100150: node_id7 1
+    100152: node_id7 2
+    100154: node_id7 3
+    100156: node_id8
+    100158: node_id8 1
+    100160: node_id8 2
+    100162: node_id8 3
+    100164: node_id9
+    100166: node_id9 1
+    100168: node_id9 2
+    100170: node_id9 3
+    400000: //RootNode
+    400002: node_id10
+    400004: node_id10 1
+    400006: node_id10 2
+    400008: node_id10 3
+    400010: node_id109
+    400012: node_id11
+    400014: node_id11 1
+    400016: node_id11 2
+    400018: node_id11 3
+    400020: node_id12
+    400022: node_id12 1
+    400024: node_id12 2
+    400026: node_id12 3
+    400028: node_id13
+    400030: node_id13 1
+    400032: node_id13 2
+    400034: node_id13 3
+    400036: node_id14
+    400038: node_id14 1
+    400040: node_id14 2
+    400042: node_id14 3
+    400044: node_id15
+    400046: node_id15 1
+    400048: node_id15 2
+    400050: node_id15 3
+    400052: node_id16
+    400054: node_id16 1
+    400056: node_id16 2
+    400058: node_id16 3
+    400060: node_id17
+    400062: node_id17 1
+    400064: node_id17 2
+    400066: node_id17 3
+    400068: node_id18
+    400070: node_id18 1
+    400072: node_id18 2
+    400074: node_id18 3
+    400076: node_id19
+    400078: node_id19 1
+    400080: node_id19 2
+    400082: node_id19 3
+    400084: node_id20
+    400086: node_id20 1
+    400088: node_id20 2
+    400090: node_id20 3
+    400092: node_id21
+    400094: node_id21 1
+    400096: node_id21 2
+    400098: node_id21 3
+    400100: node_id22
+    400102: node_id22 1
+    400104: node_id22 2
+    400106: node_id22 3
+    400108: node_id23
+    400110: node_id23 1
+    400112: node_id23 2
+    400114: node_id23 3
+    400116: node_id24
+    400118: node_id24 1
+    400120: node_id24 2
+    400122: node_id24 3
+    400124: node_id4
+    400126: node_id4 1
+    400128: node_id4 2
+    400130: node_id4 3
+    400132: node_id5
+    400134: node_id5 1
+    400136: node_id5 2
+    400138: node_id5 3
+    400140: node_id6
+    400142: node_id6 1
+    400144: node_id6 2
+    400146: node_id6 3
+    400148: node_id7
+    400150: node_id7 1
+    400152: node_id7 2
+    400154: node_id7 3
+    400156: node_id8
+    400158: node_id8 1
+    400160: node_id8 2
+    400162: node_id8 3
+    400164: node_id9
+    400166: node_id9 1
+    400168: node_id9 2
+    400170: node_id9 3
+    2100000: Material_299
+    2100002: Material_301
+    2100004: Material_303
+    2100006: Material_305
+    2100008: Material_307
+    2100010: Material_309
+    2100012: Material_311
+    2100014: Material_313
+    2100016: Material_315
+    2100018: Material_317
+    2100020: Material_319
+    2100022: Material_321
+    2100024: Material_323
+    2100026: Material_325
+    2100028: Material_327
+    2100030: Material_329
+    2100032: Material_331
+    2100034: Material_333
+    2100036: Material_335
+    2100038: Material_337
+    2100040: Material_339
+    2100042: Material_341
+    2100044: Material_343
+    2100046: Material_345
+    2100048: Material_347
+    2100050: Material_349
+    2100052: Material_351
+    2100054: Material_353
+    2100056: Material_355
+    2100058: Material_357
+    2100060: Material_359
+    2100062: Material_361
+    2100064: Material_363
+    2100066: Material_365
+    2100068: Material_367
+    2100070: Material_369
+    2100072: Material_371
+    2100074: Material_373
+    2100076: Material_375
+    2100078: Material_377
+    2100080: Material_379
+    2100082: Material_381
+    2100084: Material_383
+    2100086: Material_385
+    2100088: Material_387
+    2100090: Material_389
+    2100092: Material_391
+    2100094: Material_393
+    2100096: Material_395
+    2100098: Material_397
+    2100100: Material_399
+    2100102: Material_401
+    2100104: Material_403
+    2100106: Material_405
+    2100108: Material_407
+    2100110: Material_409
+    2100112: Material_411
+    2100114: Material_413
+    2100116: Material_415
+    2100118: Material_417
+    2100120: Material_419
+    2100122: Material_421
+    2100124: Material_423
+    2100126: Material_425
+    2100128: Material_427
+    2100130: Material_429
+    2100132: Material_431
+    2100134: Material_433
+    2100136: Material_435
+    2100138: Material_437
+    2100140: Material_439
+    2100142: Material_441
+    2100144: Material_443
+    2100146: Material_445
+    2100148: Material_447
+    2100150: Material_449
+    2100152: Material_451
+    2100154: Material_453
+    2100156: Material_455
+    2100158: Material_457
+    2100160: Material_459
+    2100162: Material_461
+    2100164: Material_463
+    2100166: Material_465
+    2300000: node_id10
+    2300002: node_id10 1
+    2300004: node_id10 2
+    2300006: node_id10 3
+    2300008: node_id11
+    2300010: node_id11 1
+    2300012: node_id11 2
+    2300014: node_id11 3
+    2300016: node_id12
+    2300018: node_id12 1
+    2300020: node_id12 2
+    2300022: node_id12 3
+    2300024: node_id13
+    2300026: node_id13 1
+    2300028: node_id13 2
+    2300030: node_id13 3
+    2300032: node_id14
+    2300034: node_id14 1
+    2300036: node_id14 2
+    2300038: node_id14 3
+    2300040: node_id15
+    2300042: node_id15 1
+    2300044: node_id15 2
+    2300046: node_id15 3
+    2300048: node_id16
+    2300050: node_id16 1
+    2300052: node_id16 2
+    2300054: node_id16 3
+    2300056: node_id17
+    2300058: node_id17 1
+    2300060: node_id17 2
+    2300062: node_id17 3
+    2300064: node_id18
+    2300066: node_id18 1
+    2300068: node_id18 2
+    2300070: node_id18 3
+    2300072: node_id19
+    2300074: node_id19 1
+    2300076: node_id19 2
+    2300078: node_id19 3
+    2300080: node_id20
+    2300082: node_id20 1
+    2300084: node_id20 2
+    2300086: node_id20 3
+    2300088: node_id21
+    2300090: node_id21 1
+    2300092: node_id21 2
+    2300094: node_id21 3
+    2300096: node_id22
+    2300098: node_id22 1
+    2300100: node_id22 2
+    2300102: node_id22 3
+    2300104: node_id23
+    2300106: node_id23 1
+    2300108: node_id23 2
+    2300110: node_id23 3
+    2300112: node_id24
+    2300114: node_id24 1
+    2300116: node_id24 2
+    2300118: node_id24 3
+    2300120: node_id4
+    2300122: node_id4 1
+    2300124: node_id4 2
+    2300126: node_id4 3
+    2300128: node_id5
+    2300130: node_id5 1
+    2300132: node_id5 2
+    2300134: node_id5 3
+    2300136: node_id6
+    2300138: node_id6 1
+    2300140: node_id6 2
+    2300142: node_id6 3
+    2300144: node_id7
+    2300146: node_id7 1
+    2300148: node_id7 2
+    2300150: node_id7 3
+    2300152: node_id8
+    2300154: node_id8 1
+    2300156: node_id8 2
+    2300158: node_id8 3
+    2300160: node_id9
+    2300162: node_id9 1
+    2300164: node_id9 2
+    2300166: node_id9 3
+    3300000: node_id10
+    3300002: node_id10 1
+    3300004: node_id10 2
+    3300006: node_id10 3
+    3300008: node_id11
+    3300010: node_id11 1
+    3300012: node_id11 2
+    3300014: node_id11 3
+    3300016: node_id12
+    3300018: node_id12 1
+    3300020: node_id12 2
+    3300022: node_id12 3
+    3300024: node_id13
+    3300026: node_id13 1
+    3300028: node_id13 2
+    3300030: node_id13 3
+    3300032: node_id14
+    3300034: node_id14 1
+    3300036: node_id14 2
+    3300038: node_id14 3
+    3300040: node_id15
+    3300042: node_id15 1
+    3300044: node_id15 2
+    3300046: node_id15 3
+    3300048: node_id16
+    3300050: node_id16 1
+    3300052: node_id16 2
+    3300054: node_id16 3
+    3300056: node_id17
+    3300058: node_id17 1
+    3300060: node_id17 2
+    3300062: node_id17 3
+    3300064: node_id18
+    3300066: node_id18 1
+    3300068: node_id18 2
+    3300070: node_id18 3
+    3300072: node_id19
+    3300074: node_id19 1
+    3300076: node_id19 2
+    3300078: node_id19 3
+    3300080: node_id20
+    3300082: node_id20 1
+    3300084: node_id20 2
+    3300086: node_id20 3
+    3300088: node_id21
+    3300090: node_id21 1
+    3300092: node_id21 2
+    3300094: node_id21 3
+    3300096: node_id22
+    3300098: node_id22 1
+    3300100: node_id22 2
+    3300102: node_id22 3
+    3300104: node_id23
+    3300106: node_id23 1
+    3300108: node_id23 2
+    3300110: node_id23 3
+    3300112: node_id24
+    3300114: node_id24 1
+    3300116: node_id24 2
+    3300118: node_id24 3
+    3300120: node_id4
+    3300122: node_id4 1
+    3300124: node_id4 2
+    3300126: node_id4 3
+    3300128: node_id5
+    3300130: node_id5 1
+    3300132: node_id5 2
+    3300134: node_id5 3
+    3300136: node_id6
+    3300138: node_id6 1
+    3300140: node_id6 2
+    3300142: node_id6 3
+    3300144: node_id7
+    3300146: node_id7 1
+    3300148: node_id7 2
+    3300150: node_id7 3
+    3300152: node_id8
+    3300154: node_id8 1
+    3300156: node_id8 2
+    3300158: node_id8 3
+    3300160: node_id9
+    3300162: node_id9 1
+    3300164: node_id9 2
+    3300166: node_id9 3
+    4300000: node_id4
+    4300002: node_id4
+    4300004: node_id4
+    4300006: node_id4
+    4300008: node_id5
+    4300010: node_id5
+    4300012: node_id5
+    4300014: node_id5
+    4300016: node_id6
+    4300018: node_id6
+    4300020: node_id6
+    4300022: node_id6
+    4300024: node_id7
+    4300026: node_id7
+    4300028: node_id7
+    4300030: node_id7
+    4300032: node_id8
+    4300034: node_id8
+    4300036: node_id8
+    4300038: node_id8
+    4300040: node_id9
+    4300042: node_id9
+    4300044: node_id9
+    4300046: node_id9
+    4300048: node_id10
+    4300050: node_id10
+    4300052: node_id10
+    4300054: node_id10
+    4300056: node_id11
+    4300058: node_id11
+    4300060: node_id11
+    4300062: node_id11
+    4300064: node_id12
+    4300066: node_id12
+    4300068: node_id12
+    4300070: node_id12
+    4300072: node_id13
+    4300074: node_id13
+    4300076: node_id13
+    4300078: node_id13
+    4300080: node_id14
+    4300082: node_id14
+    4300084: node_id14
+    4300086: node_id14
+    4300088: node_id15
+    4300090: node_id15
+    4300092: node_id15
+    4300094: node_id15
+    4300096: node_id16
+    4300098: node_id16
+    4300100: node_id16
+    4300102: node_id16
+    4300104: node_id17
+    4300106: node_id17
+    4300108: node_id17
+    4300110: node_id17
+    4300112: node_id18
+    4300114: node_id18
+    4300116: node_id18
+    4300118: node_id18
+    4300120: node_id19
+    4300122: node_id19
+    4300124: node_id19
+    4300126: node_id19
+    4300128: node_id20
+    4300130: node_id20
+    4300132: node_id20
+    4300134: node_id20
+    4300136: node_id21
+    4300138: node_id21
+    4300140: node_id21
+    4300142: node_id21
+    4300144: node_id22
+    4300146: node_id22
+    4300148: node_id22
+    4300150: node_id22
+    4300152: node_id23
+    4300154: node_id23
+    4300156: node_id23
+    4300158: node_id23
+    4300160: node_id24
+    4300162: node_id24
+    4300164: node_id24
+    4300166: node_id24
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

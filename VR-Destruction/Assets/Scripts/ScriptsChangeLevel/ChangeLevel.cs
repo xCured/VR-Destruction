@@ -15,7 +15,7 @@ public class ChangeLevel : MonoBehaviour {
     //{
     //    SceneManager.LoadScene(SceneIndex);
     //}
-    public GameObject Menu;
+    
     public void ReturnMenu()
     {
         
@@ -39,6 +39,7 @@ public class ChangeLevel : MonoBehaviour {
     public void SceneLoader(int SceneIndex)
     {
         SceneManager.LoadScene(SceneIndex);
+        Timer.timeLeft = 60;
     }
 
     public void ObjDeleter()
@@ -50,8 +51,16 @@ public class ChangeLevel : MonoBehaviour {
     {
         Application.Quit();
     }
+    public void ArcadeMode()
+    {
+        Application.LoadLevel(Application.loadedLevel);
+        Timer.timeLeft = 99999;
+        
+        
 
-    
+    }
+ 
+
    
 
 

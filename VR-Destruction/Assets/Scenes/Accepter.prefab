@@ -229,13 +229,13 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1294887737362780}
-  m_Text: "Destroy as much as you can within the given \n             time to gain
-    points"
+  m_Text: "Destroy as much as you can within the given \ntime to gain points\nTime
+    starts when you press the button"
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
   m_Anchor: 0
-  m_Alignment: 0
+  m_Alignment: 1
   m_TabSize: 4
   m_FontSize: 95
   m_FontStyle: 0
@@ -580,7 +580,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1960894497375580}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -3.5}
+  m_LocalPosition: {x: 0, y: 0, z: -7.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 224163152399818572}
@@ -664,6 +664,6 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0.18219161, y: -1.6380086}
-  m_SizeDelta: {x: 640, y: 480}
+  m_AnchoredPosition: {x: 0.18219161, y: -1.631}
+  m_SizeDelta: {x: 250.15, y: 229.13}
   m_Pivot: {x: 0.5, y: 0.5}
