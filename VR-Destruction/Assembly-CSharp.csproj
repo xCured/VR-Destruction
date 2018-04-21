@@ -472,6 +472,7 @@
      <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseHeadset.cs" />
      <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseSystem.cs" />
      <None Include="Assets\Demigiant\DOTween\readme.txt" />
+     <None Include="Assets\plants\dd\AlphaTest-Bumped.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_Fade.shader" />
      <None Include="Assets\Fantasy Skybox FREE\Readme.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ClearAll.shader" />
