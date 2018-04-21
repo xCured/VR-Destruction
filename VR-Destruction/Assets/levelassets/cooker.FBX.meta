@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 6cf8c0ad0e0f0f8499d6bcfa8873b179
+timeCreated: 1524304270
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: piano_cottura_Scene
+    100004: piano_cottura_Scene_Part_001
+    100006: piano_cottura_Scene_Part_002
+    100008: piano_cottura_Scene_Part_003
+    100010: piano_cottura_Scene_Part_004
+    100012: piano_cottura_Scene_Part_005
+    100014: piano_cottura_Scene_Part_006
+    100016: piano_cottura_Scene_Part_007
+    100018: piano_cottura_Scene_Part_008
+    100020: piano_cottura_Scene_Part_009
+    100022: piano_cottura_Scene_Part_010
+    100024: piano_cottura_Scene_Part_011
+    100026: piano_cottura_Scene_Part_012
+    100028: piano_cottura_Scene_Part_013
+    100030: piano_cottura_Scene_Part_014
+    100032: piano_cottura_Scene_Part_015
+    100034: piano_cottura_Scene_Part_016
+    100036: piano_cottura_Scene_Part_017
+    100038: piano_cottura_Scene_Part_018
+    100040: piano_cottura_Scene_Part_019
+    100042: piano_cottura_Scene_Part_020
+    400000: //RootNode
+    400002: piano_cottura_Scene
+    400004: piano_cottura_Scene_Part_001
+    400006: piano_cottura_Scene_Part_002
+    400008: piano_cottura_Scene_Part_003
+    400010: piano_cottura_Scene_Part_004
+    400012: piano_cottura_Scene_Part_005
+    400014: piano_cottura_Scene_Part_006
+    400016: piano_cottura_Scene_Part_007
+    400018: piano_cottura_Scene_Part_008
+    400020: piano_cottura_Scene_Part_009
+    400022: piano_cottura_Scene_Part_010
+    400024: piano_cottura_Scene_Part_011
+    400026: piano_cottura_Scene_Part_012
+    400028: piano_cottura_Scene_Part_013
+    400030: piano_cottura_Scene_Part_014
+    400032: piano_cottura_Scene_Part_015
+    400034: piano_cottura_Scene_Part_016
+    400036: piano_cottura_Scene_Part_017
+    400038: piano_cottura_Scene_Part_018
+    400040: piano_cottura_Scene_Part_019
+    400042: piano_cottura_Scene_Part_020
+    2100000: Zi
+    2100002: INOXs_002
+    2100004: monitor
+    2300000: piano_cottura_Scene
+    2300002: piano_cottura_Scene_Part_001
+    2300004: piano_cottura_Scene_Part_002
+    2300006: piano_cottura_Scene_Part_003
+    2300008: piano_cottura_Scene_Part_004
+    2300010: piano_cottura_Scene_Part_005
+    2300012: piano_cottura_Scene_Part_006
+    2300014: piano_cottura_Scene_Part_007
+    2300016: piano_cottura_Scene_Part_008
+    2300018: piano_cottura_Scene_Part_009
+    2300020: piano_cottura_Scene_Part_010
+    2300022: piano_cottura_Scene_Part_011
+    2300024: piano_cottura_Scene_Part_012
+    2300026: piano_cottura_Scene_Part_013
+    2300028: piano_cottura_Scene_Part_014
+    2300030: piano_cottura_Scene_Part_015
+    2300032: piano_cottura_Scene_Part_016
+    2300034: piano_cottura_Scene_Part_017
+    2300036: piano_cottura_Scene_Part_018
+    2300038: piano_cottura_Scene_Part_019
+    2300040: piano_cottura_Scene_Part_020
+    3300000: piano_cottura_Scene
+    3300002: piano_cottura_Scene_Part_001
+    3300004: piano_cottura_Scene_Part_002
+    3300006: piano_cottura_Scene_Part_003
+    3300008: piano_cottura_Scene_Part_004
+    3300010: piano_cottura_Scene_Part_005
+    3300012: piano_cottura_Scene_Part_006
+    3300014: piano_cottura_Scene_Part_007
+    3300016: piano_cottura_Scene_Part_008
+    3300018: piano_cottura_Scene_Part_009
+    3300020: piano_cottura_Scene_Part_010
+    3300022: piano_cottura_Scene_Part_011
+    3300024: piano_cottura_Scene_Part_012
+    3300026: piano_cottura_Scene_Part_013
+    3300028: piano_cottura_Scene_Part_014
+    3300030: piano_cottura_Scene_Part_015
+    3300032: piano_cottura_Scene_Part_016
+    3300034: piano_cottura_Scene_Part_017
+    3300036: piano_cottura_Scene_Part_018
+    3300038: piano_cottura_Scene_Part_019
+    3300040: piano_cottura_Scene_Part_020
+    4300000: piano_cottura_Scene
+    4300002: piano_cottura_Scene_Part_001
+    4300004: piano_cottura_Scene_Part_002
+    4300006: piano_cottura_Scene_Part_003
+    4300008: piano_cottura_Scene_Part_004
+    4300010: piano_cottura_Scene_Part_005
+    4300012: piano_cottura_Scene_Part_006
+    4300014: piano_cottura_Scene_Part_007
+    4300016: piano_cottura_Scene_Part_008
+    4300018: piano_cottura_Scene_Part_009
+    4300020: piano_cottura_Scene_Part_010
+    4300022: piano_cottura_Scene_Part_011
+    4300024: piano_cottura_Scene_Part_012
+    4300026: piano_cottura_Scene_Part_013
+    4300028: piano_cottura_Scene_Part_014
+    4300030: piano_cottura_Scene_Part_015
+    4300032: piano_cottura_Scene_Part_016
+    4300034: piano_cottura_Scene_Part_017
+    4300036: piano_cottura_Scene_Part_018
+    4300038: piano_cottura_Scene_Part_019
+    4300040: piano_cottura_Scene_Part_020
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

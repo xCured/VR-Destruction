@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: ee19f9dc128a39b4580f93ea2e133601
+timeCreated: 1524304297
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: microwave
+    100004: microwave_Part_001
+    100006: microwave_Part_002
+    100008: microwave_Part_003
+    100010: microwave_Part_004
+    100012: microwave_Part_005
+    100014: microwave_Part_006
+    100016: microwave_Part_007
+    100018: microwave_Part_008
+    100020: microwave_Part_009
+    100022: microwave_Part_010
+    100024: microwave_Part_011
+    100026: microwave_Part_012
+    100028: microwave_Part_013
+    100030: microwave_Part_014
+    100032: microwave_Part_015
+    100034: microwave_Part_016
+    100036: microwave_Part_017
+    100038: microwave_Part_018
+    100040: microwave_Part_019
+    100042: microwave_Part_020
+    400000: microwave
+    400002: //RootNode
+    400004: microwave_Part_001
+    400006: microwave_Part_002
+    400008: microwave_Part_003
+    400010: microwave_Part_004
+    400012: microwave_Part_005
+    400014: microwave_Part_006
+    400016: microwave_Part_007
+    400018: microwave_Part_008
+    400020: microwave_Part_009
+    400022: microwave_Part_010
+    400024: microwave_Part_011
+    400026: microwave_Part_012
+    400028: microwave_Part_013
+    400030: microwave_Part_014
+    400032: microwave_Part_015
+    400034: microwave_Part_016
+    400036: microwave_Part_017
+    400038: microwave_Part_018
+    400040: microwave_Part_019
+    400042: microwave_Part_020
+    2100000: stainless
+    2100002: handle
+    2100004: Default_Texture
+    2100006: black
+    2300000: microwave
+    2300002: microwave_Part_001
+    2300004: microwave_Part_002
+    2300006: microwave_Part_003
+    2300008: microwave_Part_004
+    2300010: microwave_Part_005
+    2300012: microwave_Part_006
+    2300014: microwave_Part_007
+    2300016: microwave_Part_008
+    2300018: microwave_Part_009
+    2300020: microwave_Part_010
+    2300022: microwave_Part_011
+    2300024: microwave_Part_012
+    2300026: microwave_Part_013
+    2300028: microwave_Part_014
+    2300030: microwave_Part_015
+    2300032: microwave_Part_016
+    2300034: microwave_Part_017
+    2300036: microwave_Part_018
+    2300038: microwave_Part_019
+    2300040: microwave_Part_020
+    3300000: microwave
+    3300002: microwave_Part_001
+    3300004: microwave_Part_002
+    3300006: microwave_Part_003
+    3300008: microwave_Part_004
+    3300010: microwave_Part_005
+    3300012: microwave_Part_006
+    3300014: microwave_Part_007
+    3300016: microwave_Part_008
+    3300018: microwave_Part_009
+    3300020: microwave_Part_010
+    3300022: microwave_Part_011
+    3300024: microwave_Part_012
+    3300026: microwave_Part_013
+    3300028: microwave_Part_014
+    3300030: microwave_Part_015
+    3300032: microwave_Part_016
+    3300034: microwave_Part_017
+    3300036: microwave_Part_018
+    3300038: microwave_Part_019
+    3300040: microwave_Part_020
+    4300000: microwave
+    4300002: microwave_Part_001
+    4300004: microwave_Part_002
+    4300006: microwave_Part_003
+    4300008: microwave_Part_004
+    4300010: microwave_Part_005
+    4300012: microwave_Part_006
+    4300014: microwave_Part_007
+    4300016: microwave_Part_008
+    4300018: microwave_Part_009
+    4300020: microwave_Part_010
+    4300022: microwave_Part_011
+    4300024: microwave_Part_012
+    4300026: microwave_Part_013
+    4300028: microwave_Part_014
+    4300030: microwave_Part_015
+    4300032: microwave_Part_016
+    4300034: microwave_Part_017
+    4300036: microwave_Part_018
+    4300038: microwave_Part_019
+    4300040: microwave_Part_020
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
