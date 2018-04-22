@@ -22,7 +22,7 @@ public class ChangeLevel : MonoBehaviour {
         SceneManager.LoadScene("UIlevel");
         Timer.timeLeft = 60;
         Timer.started = false;
-        
+        BreakableObject.moveableobj = true;
 
 
     }
@@ -32,6 +32,7 @@ public class ChangeLevel : MonoBehaviour {
         Application.LoadLevel(Application.loadedLevel);
         Timer.timeLeft = 60;
         Timer.started = false;
+
         
 
     }
@@ -55,8 +56,10 @@ public class ChangeLevel : MonoBehaviour {
     {
         Application.LoadLevel(Application.loadedLevel);
         Timer.timeLeft = 99999;
-        
-        
+        Timer.started = false;
+        BreakableObject.moveableobj = true;
+
+
 
     }
  

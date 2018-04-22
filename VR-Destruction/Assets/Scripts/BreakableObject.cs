@@ -32,7 +32,7 @@ public class BreakableObject : MonoBehaviour
     //if the local timer is less than 0. It switches the mobableobj to true which means you cant move any objects
         if(TimeLeft <= 0)
         {
-            moveableobj = true;
+            moveableobj = false;
             //Scoreteller.whatsyourScore = false;
         }
     }
