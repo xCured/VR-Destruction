@@ -209,7 +209,7 @@ Transform:
   - {fileID: 1058141998}
   - {fileID: 1339830899}
   m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &15842477
 GameObject:
@@ -340,7 +340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &18792404
@@ -443,7 +443,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &27956088
@@ -491,7 +491,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &27956091
@@ -679,7 +679,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &28992097
@@ -772,7 +772,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &32780494
@@ -892,7 +892,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &36731235
@@ -1079,7 +1079,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &39549368
@@ -1211,7 +1211,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &40641257
@@ -1393,7 +1393,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &61192633
@@ -1578,7 +1578,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &65341398
@@ -1710,7 +1710,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &68969859
@@ -1848,7 +1848,7 @@ Transform:
   - {fileID: 1477690529}
   - {fileID: 1652215684}
   m_Father: {fileID: 0}
-  m_RootOrder: 27
+  m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &89875265
 MonoBehaviour:
@@ -2074,7 +2074,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &92691662
@@ -2151,7 +2151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &95598467
@@ -2283,7 +2283,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &102748975
@@ -2470,7 +2470,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &106300306
@@ -2559,7 +2559,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &111782009
@@ -2691,7 +2691,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &118841768
@@ -2866,7 +2866,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &126361013
@@ -2998,7 +2998,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &129662729
@@ -3087,7 +3087,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &138792293
@@ -3262,7 +3262,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &140048167
@@ -3394,7 +3394,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &141391519
@@ -3483,7 +3483,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &142350852
@@ -3615,7 +3615,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &144413726
@@ -3747,7 +3747,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &144875191
@@ -3922,7 +3922,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &146769529
@@ -4054,7 +4054,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &155628735
@@ -4146,7 +4146,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 32
+  m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &172607013 stripped
 GameObject:
@@ -4310,7 +4310,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &177255844
@@ -4413,7 +4413,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &177255850
@@ -4618,7 +4618,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &199047112
@@ -4750,7 +4750,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &199578707
@@ -4937,7 +4937,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &200339250
@@ -5026,7 +5026,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &207342750
@@ -5274,7 +5274,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &238232850
@@ -5334,7 +5334,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &238232854
@@ -5509,7 +5509,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &245602529
@@ -5598,7 +5598,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &248187387
@@ -5773,7 +5773,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &251074144
@@ -5905,7 +5905,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &253601067
@@ -6037,7 +6037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &260361997
@@ -6247,7 +6247,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &274997117
@@ -6369,7 +6369,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &281946060
@@ -6544,7 +6544,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &291552940
@@ -6675,7 +6675,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &295469533
@@ -6809,7 +6809,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &312899055
@@ -6941,7 +6941,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &314432188
@@ -7018,7 +7018,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &314819235
@@ -7234,7 +7234,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &331005505
@@ -7337,7 +7337,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &331005511
@@ -7426,7 +7426,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &332555551
@@ -7601,7 +7601,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &337216484
@@ -7733,7 +7733,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &340394007
@@ -7865,7 +7865,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &347119564
@@ -7997,7 +7997,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &357405415
@@ -8310,7 +8310,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &375839003
@@ -8413,7 +8413,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &375839009
@@ -8545,7 +8545,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &387289109
@@ -8670,7 +8670,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &399458039
@@ -8802,7 +8802,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &399925793
@@ -8934,7 +8934,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &399985528
@@ -9102,7 +9102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &438842809
@@ -9289,7 +9289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &440309733
@@ -9450,7 +9450,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &450655610
@@ -9657,7 +9657,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &453348739
@@ -9789,7 +9789,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &466223717
@@ -9878,7 +9878,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &467542894
@@ -9998,7 +9998,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &476404056
@@ -10214,7 +10214,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1001 &480031187
@@ -10391,7 +10391,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &480478107
@@ -10451,7 +10451,7 @@ Transform:
   - {fileID: 2137766859}
   - {fileID: 2001051467}
   m_Father: {fileID: 0}
-  m_RootOrder: 30
+  m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1 &481122067
 GameObject:
@@ -10498,7 +10498,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &481122070
@@ -10685,7 +10685,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &488027461
@@ -10744,7 +10744,7 @@ Transform:
   m_Children:
   - {fileID: 62224582}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &500998279
 GameObject:
@@ -10984,9 +10984,51 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
+--- !u!1001 &516305697
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4664650602542826, guid: dc11a94a946f2a04683c72a1d16e5965, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.5465627
+      objectReference: {fileID: 0}
+    - target: {fileID: 4664650602542826, guid: dc11a94a946f2a04683c72a1d16e5965, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.80238926
+      objectReference: {fileID: 0}
+    - target: {fileID: 4664650602542826, guid: dc11a94a946f2a04683c72a1d16e5965, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 3.690268
+      objectReference: {fileID: 0}
+    - target: {fileID: 4664650602542826, guid: dc11a94a946f2a04683c72a1d16e5965, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4664650602542826, guid: dc11a94a946f2a04683c72a1d16e5965, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.5530023
+      objectReference: {fileID: 0}
+    - target: {fileID: 4664650602542826, guid: dc11a94a946f2a04683c72a1d16e5965, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4664650602542826, guid: dc11a94a946f2a04683c72a1d16e5965, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.8331797
+      objectReference: {fileID: 0}
+    - target: {fileID: 4664650602542826, guid: dc11a94a946f2a04683c72a1d16e5965, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: dc11a94a946f2a04683c72a1d16e5965, type: 2}
+  m_IsPrefabParent: 0
 --- !u!4 &533671189 stripped
 Transform:
   m_PrefabParentObject: {fileID: 458990, guid: 4f35fa249b5008c44ac2998be6f82d4d, type: 2}
@@ -11120,7 +11162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1001 &545924725
@@ -11822,7 +11864,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924798
@@ -11836,7 +11878,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924799
@@ -11862,7 +11904,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924801
@@ -11888,7 +11930,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924803
@@ -11914,7 +11956,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924805
@@ -11940,7 +11982,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924807
@@ -11966,7 +12008,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924809
@@ -11992,7 +12034,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924811
@@ -12018,7 +12060,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924813
@@ -12044,7 +12086,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924815
@@ -12070,7 +12112,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924817
@@ -12096,7 +12138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924819
@@ -12122,7 +12164,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924821
@@ -12148,7 +12190,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924823
@@ -12174,7 +12216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924825
@@ -12200,7 +12242,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924827
@@ -12226,7 +12268,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924829
@@ -12252,7 +12294,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924831
@@ -12278,7 +12320,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924833
@@ -12304,7 +12346,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924835
@@ -12330,7 +12372,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924837
@@ -12356,7 +12398,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924839
@@ -12382,7 +12424,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924841
@@ -12408,7 +12450,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924843
@@ -12434,7 +12476,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924845
@@ -12460,7 +12502,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924847
@@ -12486,7 +12528,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924849
@@ -12512,7 +12554,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924851
@@ -12538,7 +12580,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924853
@@ -12564,7 +12606,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924855
@@ -12590,7 +12632,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924857
@@ -12616,7 +12658,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924859
@@ -12642,7 +12684,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924861
@@ -12668,7 +12710,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924863
@@ -12694,7 +12736,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924865
@@ -12720,7 +12762,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924867
@@ -12746,7 +12788,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924869
@@ -12772,7 +12814,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924871
@@ -12798,7 +12840,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924873
@@ -12824,7 +12866,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924875
@@ -12850,7 +12892,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924877
@@ -12876,7 +12918,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924879
@@ -12902,7 +12944,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924881
@@ -12928,7 +12970,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924883
@@ -12954,7 +12996,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924885
@@ -12980,7 +13022,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924887
@@ -13006,7 +13048,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924889
@@ -13032,7 +13074,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924891
@@ -13058,7 +13100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924893
@@ -13084,7 +13126,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924895
@@ -13110,7 +13152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924897
@@ -13136,7 +13178,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924899
@@ -13162,7 +13204,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924901
@@ -13188,7 +13230,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924903
@@ -13214,7 +13256,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924905
@@ -13240,7 +13282,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924907
@@ -13266,7 +13308,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924909
@@ -13292,7 +13334,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924911
@@ -13318,7 +13360,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924913
@@ -13344,7 +13386,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924915
@@ -13370,7 +13412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924917
@@ -13396,7 +13438,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924919
@@ -13422,7 +13464,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924921
@@ -13448,7 +13490,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924923
@@ -13474,7 +13516,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924925
@@ -13500,7 +13542,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924927
@@ -13526,7 +13568,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924929
@@ -13552,7 +13594,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924931
@@ -13578,7 +13620,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924933
@@ -13604,7 +13646,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &545924935
@@ -15720,7 +15762,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &548744857
@@ -15797,7 +15839,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &550240460
@@ -15975,7 +16017,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &568980705
@@ -16179,7 +16221,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &579065519
@@ -16227,7 +16269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &579065522
@@ -16447,7 +16489,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &590239646
@@ -16579,7 +16621,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &593254153
@@ -16732,7 +16774,7 @@ Transform:
   - {fileID: 2022028010}
   - {fileID: 1061335535}
   m_Father: {fileID: 0}
-  m_RootOrder: 38
+  m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 266, z: 0}
 --- !u!1 &631244461
 GameObject:
@@ -16834,7 +16876,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &631244467
@@ -16923,7 +16965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &635743814
@@ -17140,7 +17182,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &649843412
@@ -17229,7 +17271,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &653950233
@@ -17403,7 +17445,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &686989656
@@ -17506,7 +17548,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &686989662
@@ -17583,7 +17625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &694018936
@@ -17727,7 +17769,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &695873945
@@ -17859,7 +17901,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &696279815
@@ -18078,7 +18120,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &715740349
@@ -18155,7 +18197,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &718617189
@@ -18434,7 +18476,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &722792626
@@ -18602,7 +18644,7 @@ Transform:
   m_LocalScale: {x: 51.967438, y: 51.967422, z: 51.967422}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 31
+  m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &757351352
 GameObject:
@@ -18704,7 +18746,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &757351358
@@ -18997,7 +19039,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &787875143
@@ -19086,7 +19128,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &793109355
@@ -19192,7 +19234,7 @@ Transform:
   m_LocalScale: {x: 37.173256, y: 0.6168507, z: 37.743828}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 28
+  m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &795429153
 MeshRenderer:
@@ -19323,7 +19365,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &803450388
@@ -19567,7 +19609,7 @@ Transform:
   - {fileID: 1837582222}
   - {fileID: 295469534}
   m_Father: {fileID: 0}
-  m_RootOrder: 29
+  m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &833556203
 GameObject:
@@ -19669,7 +19711,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &833556209
@@ -19905,7 +19947,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &861970068
@@ -19994,7 +20036,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &868798988
@@ -20248,7 +20290,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &893612773
@@ -20380,7 +20422,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &900906191
@@ -20410,7 +20452,7 @@ Transform:
   m_Children:
   - {fileID: 1115785197}
   m_Father: {fileID: 0}
-  m_RootOrder: 52
+  m_RootOrder: 53
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &904488415
 GameObject:
@@ -20512,7 +20554,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &904488421
@@ -20644,7 +20686,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &905896321
@@ -20776,7 +20818,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &906643451
@@ -20863,7 +20905,7 @@ Transform:
   - {fileID: 1887181108}
   - {fileID: 102748973}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &921034066
 GameObject:
@@ -20965,7 +21007,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &921034072
@@ -21042,7 +21084,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &921112801
@@ -21229,7 +21271,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &926371422
@@ -21318,7 +21360,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &939762367
@@ -21493,7 +21535,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &943043158
@@ -21625,7 +21667,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &944550060
@@ -21757,7 +21799,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &944732204
@@ -21846,7 +21888,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &952719404
@@ -22050,7 +22092,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &957309686
@@ -22382,7 +22424,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &991846973
@@ -22514,7 +22556,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1016609840
@@ -22591,7 +22633,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1019567287
@@ -22723,7 +22765,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1031540062
@@ -22911,7 +22953,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1036236938
@@ -23000,7 +23042,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1038386083
@@ -23132,7 +23174,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1041309010
@@ -23307,7 +23349,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1050616585
@@ -23439,7 +23481,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1054796761
@@ -23528,7 +23570,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1058142001
@@ -23782,7 +23824,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1061335540
@@ -23914,7 +23956,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1067252710
@@ -24046,7 +24088,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1069923751
@@ -24178,7 +24220,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1077527488
@@ -24310,7 +24352,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1077687763
@@ -24442,7 +24484,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1081369996
@@ -24642,7 +24684,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1107091489
@@ -24884,7 +24926,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1116030455
@@ -25113,7 +25155,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &1144462740 stripped
@@ -25272,7 +25314,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1164639027
@@ -25446,7 +25488,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &1195182143
@@ -25506,7 +25548,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1195182147
@@ -25755,7 +25797,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1196258256
@@ -26037,7 +26079,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1209515822
@@ -26114,7 +26156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1229078570
@@ -26302,7 +26344,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1237996778
@@ -26543,7 +26585,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1244029184
@@ -26632,7 +26674,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1247996484
@@ -26840,7 +26882,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1258695045
@@ -26935,7 +26977,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 26
+  m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &1260005622
 GameObject:
@@ -27488,7 +27530,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005649
@@ -27514,7 +27556,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005651
@@ -27540,7 +27582,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005653
@@ -27566,7 +27608,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005655
@@ -27592,7 +27634,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005657
@@ -27618,7 +27660,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005659
@@ -27644,7 +27686,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005661
@@ -27670,7 +27712,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005663
@@ -27696,7 +27738,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005665
@@ -27722,7 +27764,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005667
@@ -27748,7 +27790,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005669
@@ -27774,7 +27816,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005671
@@ -27800,7 +27842,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005673
@@ -27826,7 +27868,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005675
@@ -27852,7 +27894,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005677
@@ -27878,7 +27920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005679
@@ -27904,7 +27946,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005681
@@ -27930,7 +27972,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005683
@@ -27956,7 +27998,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005685
@@ -27982,7 +28024,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005687
@@ -28008,7 +28050,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005689
@@ -28034,7 +28076,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005691
@@ -28060,7 +28102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005693
@@ -28086,7 +28128,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005695
@@ -28112,7 +28154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1260005697
@@ -30337,7 +30379,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1273090414
@@ -30469,7 +30511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1278819183
@@ -30601,7 +30643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1280318609
@@ -30782,7 +30824,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1001 &1296254730
@@ -31046,7 +31088,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1302586586
@@ -31166,7 +31208,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1302953038
@@ -31353,7 +31395,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1303555294
@@ -31430,7 +31472,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1310270368
@@ -31562,7 +31604,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1317943752
@@ -31749,7 +31791,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1321804156
@@ -31826,7 +31868,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1334007531
@@ -31970,7 +32012,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1339830902
@@ -32219,7 +32261,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1343703883
@@ -32351,7 +32393,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1345723091
@@ -32428,7 +32470,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1346065698
@@ -32572,7 +32614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1351297059
@@ -32821,7 +32863,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1354462202
@@ -32982,7 +33024,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &1364064832 stripped
@@ -33118,7 +33160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1368221752
@@ -33250,7 +33292,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1369030978
@@ -33411,7 +33453,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1001 &1375767125
@@ -33625,7 +33667,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1403255616
@@ -33829,7 +33871,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &1412176872
@@ -33932,7 +33974,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1412176878
@@ -34223,7 +34265,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1001 &1439176072
@@ -34424,7 +34466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1460143913
@@ -34804,7 +34846,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 35
+  m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1481145759
 GameObject:
@@ -34906,7 +34948,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1481145765
@@ -35099,7 +35141,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &1488701781
@@ -35202,7 +35244,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1488701787
@@ -35334,7 +35376,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1490308895
@@ -35466,7 +35508,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1500579210
@@ -35627,7 +35669,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &1506331900
@@ -35730,7 +35772,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1506331906
@@ -35862,7 +35904,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1508365307
@@ -35939,7 +35981,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1512915307
@@ -36137,7 +36179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1548665684
@@ -36214,7 +36256,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1549880189
@@ -36406,7 +36448,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1555763004
@@ -36567,7 +36609,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1001 &1574301391
@@ -36665,7 +36707,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1589386991
@@ -36852,7 +36894,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1603130334
@@ -37013,7 +37055,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &1625663323
@@ -37073,7 +37115,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1625663327
@@ -37248,7 +37290,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1631466547
@@ -37380,7 +37422,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1633528515
@@ -37512,7 +37554,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1644141195
@@ -37601,7 +37643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1645112349
@@ -37776,7 +37818,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1649539283
@@ -37865,7 +37907,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1649889037
@@ -38040,7 +38082,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1651550731
@@ -38129,7 +38171,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1652200216
@@ -38325,7 +38367,7 @@ Transform:
   - {fileID: 1081369991}
   - {fileID: 722792621}
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 86.982, z: 0}
 --- !u!1 &1660347669
 GameObject:
@@ -38427,7 +38469,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &1663541373
@@ -38634,7 +38676,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1675724521
@@ -38771,7 +38813,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1692304672
@@ -38903,7 +38945,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1696030927
@@ -38980,7 +39022,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1705623207
@@ -39198,7 +39240,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &1709029316
@@ -39246,7 +39288,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1709029319
@@ -39390,7 +39432,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1714794017
@@ -39689,7 +39731,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1719771280
@@ -39821,7 +39863,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1725334015
@@ -39982,7 +40024,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &1734123302
@@ -40085,7 +40127,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1734123308
@@ -40217,7 +40259,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1737589593
@@ -40349,7 +40391,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1740669535
@@ -40432,6 +40474,11 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 218a39c82af1d374dbd095002161523a, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1742295542 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1471291776017904, guid: 218a39c82af1d374dbd095002161523a,
+    type: 2}
+  m_PrefabInternal: {fileID: 1742295541}
 --- !u!1 &1749114724
 GameObject:
   m_ObjectHideFlags: 0
@@ -40532,7 +40579,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1749114730
@@ -40664,7 +40711,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1753000592
@@ -40796,7 +40843,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1753988587
@@ -40873,7 +40920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1775723746
@@ -41065,7 +41112,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1781403892
@@ -41226,7 +41273,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &1784428889
@@ -41329,7 +41376,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1784428895
@@ -41461,7 +41508,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1791438164
@@ -41538,7 +41585,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1792165296
@@ -41652,7 +41699,7 @@ Transform:
   m_Children:
   - {fileID: 436539196}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1798735030
 GameObject:
@@ -41783,7 +41830,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &1802461983
@@ -41886,7 +41933,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1802461989
@@ -42023,7 +42070,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1810640988
@@ -42112,7 +42159,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1815497673
@@ -42287,7 +42334,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1815563483
@@ -42376,7 +42423,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1818889325
@@ -42551,7 +42598,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1826374204
@@ -42640,7 +42687,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1828464910
@@ -42857,7 +42904,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1836354602
@@ -43020,7 +43067,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &1852137963
@@ -43123,7 +43170,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1852137969
@@ -43305,7 +43352,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1855256023
@@ -43437,7 +43484,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1856064770
@@ -43733,7 +43780,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1880941297
@@ -43894,7 +43941,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1001 &1881904410
@@ -44016,7 +44063,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1887181110
@@ -44203,7 +44250,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1889082832
@@ -44325,7 +44372,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1905702861
@@ -44500,7 +44547,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1906144783
@@ -44577,7 +44624,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1906567809
@@ -44794,7 +44841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1001 &1918214437
@@ -45183,7 +45230,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1924609077
@@ -45315,7 +45362,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1925524384
@@ -45392,7 +45439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &1929100657
@@ -45610,7 +45657,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1939512071
@@ -45818,7 +45865,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1956815376
@@ -45950,7 +45997,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1960836698
@@ -46081,7 +46128,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &1990580756
@@ -46184,7 +46231,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &1990580762
@@ -46316,7 +46363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1991457225
@@ -46448,7 +46495,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &1995402722
@@ -46699,7 +46746,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &2007856790
@@ -46788,7 +46835,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &2008794538
@@ -46936,7 +46983,7 @@ Transform:
   - {fileID: 2045235547}
   - {fileID: 1229078568}
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: -47.407, z: 0}
 --- !u!1001 &2011784671
 Prefab:
@@ -47115,7 +47162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &2022028015
@@ -47192,7 +47239,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &2031874774
@@ -47381,7 +47428,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &2032030343
@@ -47616,7 +47663,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!4 &2043845906 stripped
@@ -47669,7 +47716,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &2045235549
@@ -47878,7 +47925,7 @@ Transform:
   - {fileID: 1060800618}
   - {fileID: 388996295}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: -24.908, z: 0}
 --- !u!1 &2061016983
 GameObject:
@@ -47937,7 +47984,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &2061016987
@@ -48174,7 +48221,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &2072899978
@@ -48325,7 +48372,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!114 &2084146908
@@ -48541,7 +48588,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &2091873583
@@ -48601,7 +48648,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &2091873587
@@ -48850,7 +48897,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &2105567371
@@ -48982,7 +49029,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &2109769033
@@ -49148,7 +49195,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!1 &2121003318
@@ -49251,7 +49298,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!54 &2121003324
@@ -49415,7 +49462,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82993e342a70b5e47805824baa6d255d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreKeeper: {fileID: 0}
+  scoreKeeper: {fileID: 1742295542}
   areaOfEffect: {fileID: 874341698}
   multiplier: 4
 --- !u!64 &2145937400
